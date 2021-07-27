@@ -253,11 +253,11 @@ I hope it will raise awareness of Symbol!
 
 It is ridiculous to change the name of a past product after failing to brand a new product. Exchanges will not readily accept the renaming , they will just stop handling them. Spend the marketing reserve (remuneration for the head of marketing) on technical support for the Exchange's listing of the symbol.
 
-* 我期待Symbol
+* 我期待Symbol。
 
 I'm looking forward to the symbol!
 
-* 我想讓你成為其中之一
+* 我想讓你成為其中之一。
 
 I want them to be merged into one.
 
@@ -294,7 +294,7 @@ The name of NEM is too strong and Symbol is too unknown. Should be branded separ
 
 The validity period (2 days) of the aggregate transaction (Symbol) is too short. Make it longer please.
 
-* 我希望 Symbol 是世界的一部份👍
+* 我希望 Symbol 是世界的一部份👍。
 
 I hope that symbol will become a part of the world👍
 
@@ -326,7 +326,7 @@ Thank you for all your help and please continue to emphasise that Symbol is the 
 
 If we think of NEM as a gateway to Symbol, I think there's nothing to change the NIS1 brand.
 
-* 請專注於擴展開發和用例不要說廢話
+* 請專注於擴展開發和用例不要說廢話。
 
 Stop such nonsense and focus on development and expanding use cases
 
@@ -409,7 +409,7 @@ Currently many exchanges are using NEM when they should use NIS1. When there was
 
 Further naming change of Symbol will only bring confusion and conflicting ・Symbol and NIS1 are same, both from NEM ・Symbol is the second generation of NEM, up-warded and more powerful ・NIS1 is the first generation of NEM That's all. The only thing that officials should do is to give a full explanation with this information. Should emphasise more the fact that Symbol is the main chain. I'm fed up with the fashionable and mysterious elements.
 
-* Symbol 在開發上具有很高的自由度，可以用於任何東西，但它與其他貨幣的區別是模糊的。 我希望在各個領域看到更多用例，首先，從最有用的用例開始（從開發人員和企業的角度來看，不可見引入它的優點將是一個原因，儘管集成取決於公司的決定） )
+* Symbol 在開發上具有很高的自由度，可以用於任何東西，但它與其他貨幣的區別是模糊的。 我希望在各個領域看到更多用例，首先，從最有用的用例開始（從開發人員和企業的角度來看，不可見引入它的優點將是一個原因，儘管集成取決於公司的決定）。
 
 Symbol has a high degree of freedom in development and can be used for anything, but it is obscure what's a difference from other currencies. I would like to see more use cases in various fields, firstly, starting with the most useful use cases (this, from developers and enterprise view not visible the merits of introducing it would be a reason, that integrations are up to the companies decisions though)
 
@@ -460,7 +460,7 @@ I'm looking forward to seeing the value of NEM (XEM) and XYM increase.
 
 I think you should appeal Symbol more at the forefront of the brand. Most people don't know much about Symbol, and even if they know it, they probably take it kind of a subordinate to Bitcoin Cash, Ethereum Classic, etc. There are people who don't even know what Symbol is.
 
-* “NEM”而不是 XYM ，但你應該使用“NEM”而不是 XYM
+* “NEM”而不是 XYM ，但你應該使用“NEM”而不是 XYM。
 
 You should have used "NEM" instead of XYM
 
@@ -500,7 +500,7 @@ There is a prevailing image of NEM as XEM. And Symbol as the main chain is weak.
 
 I suppose many people buy XEM or XYM without knowing the difference between Symbol and NIS1. "New amazing chain Symbol has launched! Okay, I'll buy XEM!" like this kind of lack of knowledge. NIS1 should be removed the name of NEM or change it to NEM Classic etc.
 
-* 窮人的大逆轉開始了✨
+* 窮人的大逆轉開始了✨。
 
 The great reversal of the poor people begins✨
 
@@ -540,7 +540,7 @@ Use NEMHUB task more actively. Increase the number of tasks & spread the videos 
 Rather than rebuilding the brand, I think that the phase from now on, after the Symbol has been launched, should focus on publishing, explaining and sharing the results of the introduction in a clear way. Announce the benefits of corporate adoption, such as the adoption of Roche, and increase the number of companies that use the chain actually. It's all about enterprises using it. Show examples of how they have used it and how it works. We are particularly keen on companies in the trade sector. Publishing examples of past installations and their effects as far as you can. We are particularly interested in companies in the trade sector. I think it is the best match. The image of a commercial tool for increasing sales and profits, aimed at "business bases". There is a lot of competition in the NFT field and it will grow even if it is left alone. "The era of investing hundreds of millions in building their own distribution system is over. Smart companies are using the blockchain to build a rational system with symbol×nem." If the branding is like that, "business bases" who think that "crypto currency = fishy" may turn their attention to it. It is possible to promote the introduction of crypto currency in Japan by using a system that allows companies to use subsidies for supply chain rebuilding. I think the government would be more supportive if they knew that it would benefit the country. I apologise for my amateurish opinion.
 
 
-* 目前狀況不好，請活躍起來
+* 目前狀況不好，請活躍起來。
 
 Stop saying only "beautiful-sounding phrases", just make it exciting.
 
