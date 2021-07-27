@@ -405,169 +405,169 @@ There is no global recognition of Symbol, NEM is known better than symbol in som
 Currently many exchanges are using NEM when they should use NIS1. When there was no Symbol, not a problem, but now we believe that this is one of the reasons for the misunderstanding. However I know that it is not easy to correct all of this. The problem is that there are two chains in the NEM (NIS1 and Symbol) and lots of people mistakenly think that NEM = NIS1. To solve this point in a feasible way, I think it would be good to take Symbol out from the NEM. Instead of "2 chains in NEM", rather say simply "NIS1 in NEM, Symbol in Symbol (temporary)", represent 1 chain in each of the 2 projects, instead of 2 chains in 1 project. There are specific ways to.. E.G. 1)Create and operate a symbol focused account (e.g. Twitter) for disseminating symbol information. 2)Refrain from using the word NEM in any of Symbol's announcement (e.g. hashtag) and so on. I believe that it is important to keep the Symbol separate from the NEM, and each information will be conveyed properly.
 
 
-進一步重命名Symbol只會造成混亂和摩擦。・ Symbol 和 NIS1 是同一個 NEM ・ Symbol 是第二代 NEM，性能很高。 ・ NIS1 是第一代 NEM。你所要做的就是給出一個解釋，把所有這些信息都推出去。再強調一點，Symbol 是主鏈。我厭倦了時尚和神秘的元素。
+* 進一步命名 Symbol 只會造成混亂和摩擦。・ Symbol 和 NIS1 都來自 NEM ・ Symbol 是第二代 NEM，性能很高。 ・ NIS1 是第一代 NEM。你所要做的就是給出一個解釋，把所有這些信息都推出去。再強調一點，Symbol 是主鏈。我厭倦了時尚和神秘的元素。
 
 Further naming change of Symbol will only bring confusion and conflicting ・Symbol and NIS1 are same, both from NEM ・Symbol is the second generation of NEM, up-warded and more powerful ・NIS1 is the first generation of NEM That's all. The only thing that officials should do is to give a full explanation with this information. Should emphasise more the fact that Symbol is the main chain. I'm fed up with the fashionable and mysterious elements.
 
-Symbol在開發上具有很高的自由度，可以用於任何東西，但它與其他貨幣的區別是模糊的。 我希望在各個領域看到更多用例，首先，從最有用的用例開始（從開發人員和企業的角度來看，不可見引入它的優點將是一個原因，儘管集成取決於公司的決定） )
+* Symbol 在開發上具有很高的自由度，可以用於任何東西，但它與其他貨幣的區別是模糊的。 我希望在各個領域看到更多用例，首先，從最有用的用例開始（從開發人員和企業的角度來看，不可見引入它的優點將是一個原因，儘管集成取決於公司的決定） )
 
 Symbol has a high degree of freedom in development and can be used for anything, but it is obscure what's a difference from other currencies. I would like to see more use cases in various fields, firstly, starting with the most useful use cases (this, from developers and enterprise view not visible the merits of introducing it would be a reason, that integrations are up to the companies decisions though)
 
-我覺得NEN，Symbol沒有被認可。更多地向交易所和公司推廣​​。現在是停止NGL內鬥的時候了。
+* 我覺得 NEN，Symbol 沒有被認可。更多地向交易所和公司推廣​​。現在是停止NGL內鬥的時候了。
 
 I feel that NEN, Symbol are not being recognised. Promote more to exchanges and companies. And it's high time to stop infighting in NGL.
 
-我不明白為什麼我要放棄 NEM 品牌。即使有黑客攻擊，NEM / XEM 也沒有問題。NEM 品牌有著悠久的歷史，所以你不應該因為一個錯誤就放棄它。品牌重塑後，我們必須從頭開始建立信任。目前，我認為 XYM 沒有這樣的空閒時間。像 Uniswap V3 一樣簡單地使用 NEM v2 / XYM 不是可以嗎？我想那個人會收到的。不必要的複雜會使新進入者感到困惑。首先，它比品牌重塑更受歡迎。與其像這樣摩擦內環，不如在NFT、DeFi等其他鏈落後的領域加強技術和客戶。你重新組織多少次，你犯了多少次同樣的錯誤？即使是基本的性能，比如 6000 的符號 Tx/s，也並不為大眾所熟知，即使你堅持這個名字，也不會改變。請在傳播 Symbol 和改善基礎設施後重塑品牌。多邊形 (MATIC) 就是一個很好的例子。Polygon 鞏固了 NFT 和 ETH 橋樑，並在穩定後更名。
+* 我不明白為什麼我要放棄 NEM 品牌。即使有黑客攻擊，NEM / XEM 也沒有問題。NEM 品牌有著悠久的歷史，所以你不應該因為一個錯誤就放棄它。品牌重塑後，我們必須從頭開始建立信任。目前，我認為 XYM 沒有這樣的空閒時間。像 Uniswap V3 一樣簡單地使用 NEM v2 / XYM 不是可以嗎？我想那個人會收到的。不必要的複雜會使新進入者感到困惑。首先，它比品牌重塑更受歡迎。與其像這樣摩擦內環，不如在NFT、DeFi等其他鏈落後的領域加強技術和客戶。你重新組織多少次，你犯了多少次同樣的錯誤？即使是基本的性能，比如 6000 的符號 Tx/s，也並不為大眾所熟知，即使你堅持這個名字，也不會改變。請在傳播 Symbol 和改善基礎設施後重塑品牌。多邊形 (MATIC) 就是一個很好的例子。Polygon 鞏固了 NFT 和 ETH 橋樑，並在穩定後更名。
 
 I don't understand why I want to abandon the NEM brand. Even though there was a hack, it wasn't NEM/XEM's fault, the NEM brand has a history and shouldn't be let go by just one mistake. Once the rebranding is done, we have to start building trust again from zero. We don't think XYM has the time to do that at the moment. Why don't you simply say NEMv2/XYM like Uniswap V3? I think it would be more acceptable with everyone. Making things unnecessarily complicated will confuse newcomers. The first thing to do is to spread Symbol before rebranding. Instead of internal wrangling, should work on the technology and customers in areas where talking behind other chains, such as NFT and DeFi. How many times do we have to re-organise and make the similar mistakes over and over again, even the basic performance of a symbol, such as Tx/s of 6000, is not properly known to the public? Before thinking about rebranding, please promote Symbol and develop its infrastructure. Polygon (MATIC) is a good example which rebranded itself after consolidating and stabilising NFT and ETH Bridge.
 
 
-如果 NEM (NIS1) 是 Symbol 的子鏈，那麼 Symbol 應該以 NEM 命名，NIS1 應該以不同的方式命名。我認為這個名字最容易理解，因為與日本相比，它在海外的知名度和理解度太低了。請清楚告知連接主鏈Symbol的許多子鏈的關係。如果您有未來的路線圖，請披露。
+* 如果 NEM (NIS1) 是 Symbol 的子鏈，那麼 Symbol 應該以 NEM 命名，NIS1 應該以不同的方式命名。我認為這個名字最容易理解，因為與日本相比，它在海外的知名度和理解度太低了。請清楚告知連接主鏈 Symbol 的許多子鏈的關係。如果您有未來的路線圖，請披露。
 
 If NEM (NIS1) is a sub-chain of Symbol one day and it's planned, Symbol should be named after NEM and NIS1 should be named differently. I think that the clear naming is the best way to make it easier to understand, because the awareness and understanding abroad is too poor when compared with Japan. I would like to know about sub-chains connected to the main chain symbol more clearly. If there is any roadmap, please disclose it.
 
-NEM和Symbol不兼容，毫無疑問，社區是沒有前提的劃分的，沒有必要強行連接它們。如果你真的想堅持NEM，你應該把剛剛誕生的Symbol命名為NEM2之類的。如果你真的想給它打上烙印，請把它命名為 NEM2 或類似的名字。即使我還沒有準備 NIS1 文檔，堅持使用 NEM 是荒謬的。
+* NEM 和 Symbol 不兼容，毫無疑問，社區是沒有前提的劃分的，沒有必要強行連接它們。如果你真的想堅持 NEM，你應該把剛剛誕生的 Symbol 命名為 NEM2 之類的。如果你真的想給它打上烙印，請把它命名為 NEM2 或類似的名字。即使我還沒有準備 NIS1 文檔，堅持使用 NEM 是荒謬的。
 
 NEM and Symbol are incompatible and the community is definitely divided.There's no need to force two merges. If you really want to stick to NEM, you should change the name of the fledgling Symbol to NEM2 or something like that, but you don't want to change it. You say it's 'too late'. If you're serious about branding, make it NEM2 or something like that.　You can still start over. I mean, you haven't maintained the even documentation for NIS1, but it's ridiculous that you're forcing yourself to stick with NEM.
 
 
-這個調查本身是由不太了解 NEM 的人創建的嗎？
+* 這個調查本身是由不太了解 NEM 的人創建的嗎？
 
 Was this questionnaire itself created by someone with poor understanding of the NEM?
 
 
-誰是此次品牌重塑提案和討論的協調員，擔任什麼職位？天然氣？核心脂肪？海盜？基於這次討論，您打算通過什麼樣的過程來決定品牌重塑的方向？是閉室會議嗎？是社區投票嗎？如果你要在社區投票，你如何決定候選人？（我已經厭倦了symbol 或seccoya 等糟糕的選擇。）要重塑品牌，我認為有必要重新創建網站，重新創建文檔等，並聯繫交易所。這些工作由誰來做，在什麼地方做位置？
+* 誰是此次品牌重塑提案和討論的協調員，擔任什麼職位？天然氣？核心脂肪？海盜？基於這次討論，您打算通過什麼樣的過程來決定品牌重塑的方向？是黑箱會議嗎？是社區投票嗎？如果你要在社區投票，你如何決定候選人？（我已經厭倦了 Symbol 或 Sekoya 等糟糕的選擇。）要重塑品牌，我認為有必要重新創建網站，重新創建文檔等，並聯繫交易所。這些工作由誰來做，在什麼地方做位置？
 
 Who is proposing this rebranding, and is in charge of organising the discussion? NGL? Core devs? Pirates? After this discussion, what process do you plan to use to decide on the direction of the rebranding? Is it a closed meeting? A community vote? And If you are going to have a community vote, how will you decide which candidate to choose? (I'm sick of choices that are both bad, like Symbol or Sekoya. choices we had) The rebranding process, re-designing of the website, re-documentation and managing with the exchanges will be required, but who will be in charge of this?
 
-Kunoichi是女忍者的名字，我認為它的敏捷、技術、輕盈和美麗很符合形象。
+* Kunoichi是女忍者的名字，我認為它的敏捷、技術、輕盈和美麗很符合形象。
 
 Kunoichi is the name of a female ninja. I think that its quickness, technique, lightness and beauty fit the image.
 
-在Symbol 推出之前，你有沒有很好的機會討論它？我認為。儘管NEM=NIS1的形像已經在世界範圍內生根發芽，但這種喧囂本身只是中心化的感覺，我認為這是對區塊鏈的一個負面影響。NEM經典（NIS1）和NEM（Symbol）更容易理解是可以理解的，但這是一個品牌問題嗎？
+* 在Symbol 推出之前，你有沒有很好的機會討論它？我認為。儘管 NEM=NIS1 的形像已經在世界範圍內生根發芽，但這種喧囂本身只是中心化的感覺，我認為這是對區塊鏈的一個負面影響。NEM 經典（NIS1）和 NEM（Symbol）更容易理解是可以理解的，但這是一個品牌問題嗎？
 
 You did have enough time to discuss this before the Symbol launch. Even though the image of NEM = NIS1 has been established in the public mind, the whole mess itself feels centralised, which I think is a negative for a blockchain. It's understandable that something like NEM classic (NIS1) or NEM (Symbol) would be easier to understand, but is it a branding issue?
 
-我要你堅決宣傳XYM。
+* 我要你堅決宣傳XYM。
 
 More sincere XYM promotion that I want.
 
-我們期待增加 NEM (XEM) 和 XYM 的價值。
+* 我們期待增加 NEM (XEM) 和 XYM 的價值。
 
 I'm looking forward to seeing the value of NEM (XEM) and XYM increase.
 
-我認為我們應該把更多的符號帶到前面並吸引人。大多數人不會熟悉 Symbol，即使他們熟悉，也感覺它們被視為比特現金和以太坊經典等。我敢肯定，有些人一開始並不了解 Symbol。必須清楚地表明，Symbol 作為主區塊鏈已經換代了，而 NIS1 已經轉向了子區塊鏈。
+* 我認為我們應該更常把 Symbol 帶出並吸引人。大多數人不會熟悉 Symbol，即使他們熟悉，也感覺它們被視為比特現金和以太坊經典等。我敢肯定，有些人一開始並不了解 Symbol。必須清楚地表明，Symbol 作為主區塊鏈已經換代了，而 NIS1 已經轉向了子區塊鏈。
 
 I think you should appeal Symbol more at the forefront of the brand. Most people don't know much about Symbol, and even if they know it, they probably take it kind of a subordinate to Bitcoin Cash, Ethereum Classic, etc. There are people who don't even know what Symbol is.
 
-“NEM”而不是 XYM ，但你應該使用“NEM”而不是 XYM
+* “NEM”而不是 XYM ，但你應該使用“NEM”而不是 XYM
 
 You should have used "NEM" instead of XYM
 
-無論聽起來多麼好，談論史詩般的未來，當前的圖表都說明了整個故事。對 XEM、XYM 和 NEM 項目感到失望。整個市場的預期較低。我不覺得在其他項目中看到的絕望。不逃避現實，兼顧發展與提升。即使你有一定的技術技能，我認為你現在的立場也不能吸引很多人。
+* 無論聽起來多麼好，談論史詩般的未來，當前的圖表都說明了整個故事。對 XEM、XYM 和 NEM 項目感到失望。整個市場的預期較低。我不覺得在其他項目中看到的絕望。不逃避現實，兼顧發展與提升。即使你有一定的技術技能，我認為你現在的立場也不能吸引很多人。
 
 No matter how much we talk about a grand future, the current chart says it all: disappointed with XEM, XYM and the NEM project. Markets have low expectations. But I don't feel the desperation that is often sawn in other projects. Please keep an eye on reality and balance development and promotion. Even if the technology is solid, I don't think you can attract many people with your current stance.
 
-NIS1這個名字在符號推出之前就已經有很強的XEM/NEM形象了。我認為虛擬貨幣交易所的名稱也有影響。目前我覺得那個符號應該是主鏈，所以我覺得有必要統一XEM鏈的名稱和虛擬貨幣交易所的名稱。如果重生為符號的子鏈，我覺得是從NIS1改名的好機會。
+* NIS1 這個名字在 Symbol 推出之前就已經有很強的 XEM/NEM 形象了。我認為虛擬貨幣交易所的名稱也有影響。目前我覺得那個 Symbol 應該是主鏈，所以我覺得有必要統一 XEM 鏈的名稱和虛擬貨幣交易所的名稱。如果重生為 Symbol 的子鏈，我覺得是從 NIS1 改名的好機會。
 
 The name NIS1 was strongly associated with XEM/NEM before the launch of the Symbol. I think that the name may also be influenced by the names of virtual currency exchanges and so on. If NIS1 is to be reborn as a sub-chain of Symbol, it would be a good opportunity to change the name from NIS1.
 
-基本上，我們支持現有的，但如果你想改變一些東西，你可以製作 NIS1 標誌，並在銷售辦事處和交易所使用 NIS1 XEM Symbol而不是 NEM XEM。我認為可能是這樣。或者我認為，讓Symbol成為比NEM更高的品牌，把NEM、NIS1作為Symbol的子鏈之一，會是一隻螞蟻。
+* 基本上，我們支持現有的，但如果你想改變一些東西，你可以製作 NIS1 標誌，並在銷售辦事處和交易所使用 NIS1 XEM Symbol而不是 NEM XEM。我認為可能是這樣。或者我認為，讓 Symbol 成為比 NEM 更高的品牌，把 NEM、NIS1 作為 Symbol 的子鏈之一。
 
 Basically, I'm in favour of keeping things the way they are, but if there were to make any changes, I think it would be better to make a new NIS1 logo, and if we called it NIS1/XEM instead of NEM/XEM on the exchanges. Alternatively, Symbol could be a higher brand than NEM, and NEM and NIS1 could be one of Symbol's sub-chains.
 
-我知道併購買 XEM 的原因是因為我知道 Symbol (XYM)。XYM的收穫收入和出售時的資本收益對我來說是一個鉤子，讓我產生了興趣。我很期待 Symbol 未來的創新。我還沒有足夠的知識，但只要我在投資，我希望我能學習並為XYM和XEM的發展做出貢獻。
+* 我知道併購買 XEM 的原因是因為我知道 Symbol (XYM)。XYM 的收穫收入和出售時的資本收益對我來說是一個鉤子，讓我產生了興趣。我很期待 Symbol 未來的創新。我還沒有足夠的知識，但只要我在投資，我希望我能學習並為 XYM 和 XEM 的發展做出貢獻。
 
 The reason I bought XEM is, I found out about Symbol (XYM) , knew the harvesting income and the capital gain from selling it hooked me and got me interested. I am looking forward to the innovations that Symbol will bring to the market. I am still learning, but as long as I am investing, I hope to learn more and contribute to the development of XYM and XEM.
 
-Symbol不是 NIS1
+* Symbol 不是 NIS1。
 
 Rather Symbol than NIS1
 
-知名廠商都有過往的故事，背書多年，但Symbol卻沒有這樣的故事。此外，故事不是由主辦方創造的，但支持者通過產品聚集並自然發生的強烈。一個品牌不是用來炫耀的，而是用來背書的。
+* 知名廠商都有過往的故事，背書多年，但 Symbol 卻沒有這樣的故事。此外，故事不是由主辦方創造的，但支持者通過產品聚集並自然發生的強烈。一個品牌不是用來炫耀的，而是用來背書的。
 
 Famous brands have a story to tell and have been supported for many years, but Symbol has no such story yet. But, the story is not created by the organiser, by the product itself. A brand is not something to be flaunted, it is something to be supported.
 
-使用鏈名稱 NEM Classic 和 NEM Symbol 是個好主意。最好讓附近的人一眼就知道 NIS1 是較老的鏈。
+* 使用鏈名稱 NEM Classic 和 NEM Symbol 是個好主意。最好讓附近的人一眼就知道 NIS1 是較老的鏈。
 
 It is better to name NEM Classic and NEM Symbol. It would be better if cryptor outside of NEM can see at a glance that NIS1 is the older chain.
 
-NEM=XEM的形象領先於大眾，Symbol作為主鏈的形象弱。乍一看真的很難理解，即使您快速瀏覽或收到解釋。我想很多人都覺得Symbol / xym不為人熟知，誤解無處不在，結果是NEM，而不是Symbol，在價格上領先。結果，我想如果我燒了xem，我就可以做到沒有這樣的誤解。我認為品牌化也很重要，但不管怎樣，（1）Symbol 是主鏈，（2）NEM 是子鏈，以及（3）雙方未來將如何使用。我認為重要的是繼續.我認為這很難。 NGL也將被拆除，因此非常感謝您的長期活動。我們支持工程師，讓他們以後可以全身心投入到開發中，以白人狀態，不以利潤為先！ !! !! !!我們期待Symbol被廣泛使用、交易飛揚、工程師得到獎勵的那一天。
+* NEM=XEM 的形象領先於大眾，Symbol 作為主鏈的形象弱。乍一看真的很難理解，即使您快速瀏覽或收到解釋。我想很多人都覺得 Symbol / XYM 不為人熟知，誤解無處不在，結果是 NEM，而不是 Symbol，在價格上領先。結果，我想如果我燒了 XEM，我就可以做到沒有這樣的誤解。我認為品牌化也很重要，但不管怎樣，（1）Symbol 是主鏈，（2）NEM 是子鏈，以及（3）雙方未來將如何使用。我認為重要的是繼續.我認為這很難。 NGL也將被拆除，因此非常感謝您的長期活動。我們支持工程師，讓他們以後可以全身心投入到開發中，不以利潤為先！ !! !! !!我們期待 Symbol 被廣泛使用、交易飛揚、工程師得到獎勵的那一天。
 
 There is a prevailing image of NEM as XEM. And Symbol as the main chain is weak. The lack of awareness of Symbol/xym has led to misunderstandings everywhere, and as a result, many people have felt the dilemma of NEM being ahead in price instead of Symbol. I think that if we had burned xem as a result, we could have done without these misunderstandings. I think branding is important, but anyway, now ①Symbol is a main chain ②NEM is a sub chain ③How will both will be used in the future I think it's important to communicate these clearly and to continue to do so. I know it's not an easy job, and I'm sorry to hear that NGL will be closed, so thank you for all your hard work over the years. I wish you all the best and hope that the engineers will be able to put all their efforts into development in the future. ！！！！
 
-我想很多人在不知道 Symbol 和 NIS1 之間的區別的情況下購買 XEM 或 XYM。似乎“似乎有什麼新的驚人的鏈誕生了！好吧，讓我們購買這個 XEM 等等！”之類的事情實際上正在發生。您應該從 NIS1 中刪除名稱 NEM 或使其類似於 NEM Classic。
+* 我想很多人在不知道 Symbol 和 NIS1 之間的區別的情況下購買 XEM 或 XYM。似乎“似乎有什麼新的驚人的鏈誕生了！好吧，讓我們購買這個 XEM 等等！”之類的事情實際上正在發生。您應該從 NIS1 中刪除名稱 NEM 或使其類似於 NEM Classic。
 
 I suppose many people buy XEM or XYM without knowing the difference between Symbol and NIS1. "New amazing chain Symbol has launched! Okay, I'll buy XEM!" like this kind of lack of knowledge. NIS1 should be removed the name of NEM or change it to NEM Classic etc.
 
-窮人的大逆轉開始了✨
+* 窮人的大逆轉開始了✨
 
 The great reversal of the poor people begins✨
 
-技術再好，不使用也沒有意義。
+* 技術再好，不使用也沒有意義。
 
 No matter how good the technology is, it is useless if it is not used.
 
-xym 是Symbol，xem 是 NEM，就是這樣。從今以後不要退縮。我對Symbol有很高的期望，但是為了增加Symbol的價值而相對降低nem / xem的價值的品牌是錯誤的。取下nem是一個荒謬的故事。而不是這樣，我認為應該加快Symbol的傳播，並儘早實現與xem的合作。
+* XYM 是 Symbol，XEM 是 NEM，就是這樣。從今以後不要退縮。我對 Symbol 有很高的期望，但是為了增加 Symbol 的價值而相對降低 NEM / XEM 的價值的品牌是錯誤的。我認為應該加快 Symbol 的傳播，並儘早實現與 XEM 的合作。
 
 xym is Symbol, xem is NEM, that's it. Please don't degenerate now. I am counting on Symbol, but diminishing the relative value of nem/xem in order to increase the value of symbol, is not a good way of branding scheme. I think you should hurry up and promote the usage of Symbol and make it work with xem as soon as possible.
 
 
-(NEM) NEM (NIS1) / XEM 符號 / XYM 我們不應該盡最大努力讓大家知道嗎？我覺得除了日本以外的國家都沒有做出足夠的努力來讓他們知道。我認為更改名稱不是一件簡單的事情。在 Catapult 品牌提案的時候，品牌名稱 Symbol 從一開始就決定了，社區別無選擇，只能批准或不批准。雖然Symbol 是通過投票選出的，但日本社區花了很長時間才接受這個品牌名稱。
+* (NEM) NEM (NIS1) / XEM Symbol / XYM 我們不應該盡最大努力讓大家知道嗎？我覺得除了日本以外的國家都沒有做出足夠的努力來讓他們知道。我認為更改名稱不是一件簡單的事情。在 Catapult 品牌提案的時候，品牌名稱 Symbol 從一開始就決定了，社區別無選擇，只能批准或不批准。雖然 Symbol 是通過投票選出的，但日本社區花了很長時間才接受這個品牌名稱。
 
 (NEM) NEM(NIS1) / XEM Symbol / XYM Why don't you make a steady effort to make this known? I feel that countries other than Japan are not making enough effort to have this known. Just changing the name will not solve the problem. When the Catapult branding proposals At the time, the brand name Symbol had been chosen from the outset and the community had no choice but to approve it or not. After a vote, Symbol was chosen. It took a lot of time for the Japanese community to accept this brand name.
 
-作為投資者，我對這一系列事件感到非常失望。從出生到現在已經有四個月左右了，所以市場可能會原諒我，但對於Symbol或NEM來說，把這個案子拖得太久是不好的。它出生時沒有名字或品牌嗎？你現在是在向社會徵求意見嗎？是出生前就應該整理的內容，幼稚的管理讓我心疼。即使技術再好，根據運營情況，未來也可能充滿不確定性，不鼓勵投資。如果您更改了名稱，請盡快採取適當的措施。我查看了調查問卷的結果，但根據受訪者是 XEM 還是 XYM，觀點差異很大。徵求意見是好的，但請理解受訪者有不同的觀點，收集數據。很難讓所有受訪者都滿意，所以要適當選擇和集中。當您聽到 NEM 時，您可能對 XEM 和 XYM 都有深入的了解。通常，您可能會將其與 NEM = XEM 相關聯。NIS1 仍然普遍未知。你認識多少普通投資者？把這一切都推過去並傳播這個名字是否現實？如果太複雜，就會出現很多人不能正確理解的問題。如果過於復雜，會阻礙一定數量的投資者進行投資。這個問題對Symbol 的企業使用有相當大的影響。名稱和概念的追求必須在某處平衡。我擔心如果強調名稱或概念的正確性，符號可能會變得複雜。分別支持NEM/XEM和Symbol/XYM是現實的，如果信息從不同的賬戶發送，可能會減少混亂。從 NEM 賬戶發送符號信息一直有一種強烈的不適感。我是來獲取Symbol信息的，但是我必須把XEM信息看成一個集合。符號 / XYM 已經在多個交易所 它列在。以後改名的時候，光是宣傳改名是不夠的，除非你向繼續貼舊信息的媒體和交易所仔細說明，要求更正，在改名前我希望你決定並實施變更後的措施，以免信息造成進一步的誤解、混淆和復雜性。
+* 作為投資者，我對這一系列事件感到非常失望。從出生到現在已經有四個月左右了，所以市場可能會原諒我，但對於 Symbol 或 NEM 來說，把這個案子拖得太久是不好的。它誕生時沒有名字或品牌嗎？你現在是在向社會徵求意見嗎？是誕生前就應該整理的內容，幼稚的管理讓我心疼。即使技術再好，根據運營情況，未來也可能充滿不確定性，不鼓勵投資。如果您更改了名稱，請盡快採取適當的措施。我查看了調查問卷的結果，但根據受訪者是 XEM 還是 XYM，觀點差異很大。徵求意見是好的，但請理解受訪者有不同的觀點，收集數據。很難讓所有受訪者都滿意，所以要適當選擇和集中。當您聽到 NEM 時，您可能對 XEM 和 XYM 都有深入的了解。通常，您可能會將其與 NEM = XEM 相關聯。NIS1 仍然普遍未知。你認識多少普通投資者？把這一切都推過去並傳播這個名字是否現實？如果太複雜，就會出現很多人不能正確理解的問題。如果過於複雜，會阻礙一定數量的投資者進行投資。這個問題對 Symbol 的企業使用有相當大的影響。名稱和概念的追求必須在某處平衡。我擔心如果強調名稱或概念的正確性，Symbol 可能會變得複雜。分別支持 NEM/XEM 和 Symbol/XYM 是現實的，如果信息從不同的賬戶發送，可能會減少混亂。從 NEM 賬戶發送 Symbol 信息一直有一種強烈的不適感。我是來獲取 Symbol 信息的，但是我必須把 XEM 信息看成一個集合。Symbol / XYM 已經在多個交易所。 它列在以後改名的時候，光是宣傳改名是不夠的，除非你向繼續貼舊信息的媒體和交易所仔細說明，要求更正，在改名前我希望你決定並實施變更後的措施，以免信息造成進一步的誤解、混淆和複雜性。
 
 As an investor, I am very disappointed with this whole thing. It's only 4 months since we were born, so the market may just about forgive it, but it's not good for Symbol or NEM to let this go on too long. You have launched without final decision with names and branding? And now you want to solicit it from the community? This is the sort of thing that should have been sorted out before the launch and it is sad to see how poorly it has been managed. Even if the technology is good, the management will make us feel insecure about the future and discourage us from investing. If you are going to change the name, please do it quickly and appropriately. The results of the survey responses have a big difference in perspective between respondents who are on XEM or XYM side. It is good to solicit opinions, but please be aware of the different perspectives of the respondents and collect data accordingly. It is difficult to satisfy all respondents, so please be selective and focused appropriately. When people hear the word NEM, probably only people who know well about NEM associate it with both XEM and XYM if you understand it deeply. In general, you probably associate NEM with XEM. NIS1 is still unknown to the general public. How many ordinary investors know about it? Is it realistic to push it out there now and promote the name? If it is too complex, there will always be a problem of not being understood properly by many people and it can discourage some investors from investing at a constant rate. This problem also affects the enterprise adoption of Symbol too. The pursuit of names and concepts has to be balanced at some point. I am afraid that if we focus on the correctness of names and concepts, the notation will become more complex. Having separate NEM/XEM and Symbol/XYM would be a more realistic way to be, and preparing two accounts to tweet each information is less confusing to disseminate information. For a long time now, I have been very uncomfortable with the fact that Symbol information is sent from the NEM account. I look there to get information about Symbol, but I have to look at the XEM information as well. Symbol/XYM is already listed on several exchanges. If you decide to change the name in the future, it is not enough to simply announce that you have changed the name, but unless you carefully explain the change to the media and exchanges that continue to publish outdated information and ask them to correct it constantly, the information before the change will cause further misunderstanding, confusion and complexity more.
 
 
 
-NIS1這個名字在符號推出之前就已經有很強的XEM/NEM形象了。我認為虛擬貨幣交易所的名稱也有影響。目前我覺得那個符號應該是主鏈，所以我覺得有必要統一XEM鏈的名稱和虛擬貨幣交易所的名稱。如果重生為符號的子鏈，我覺得是從NIS1改名的好機會。
+* NIS1 這個名字在 Symbol 推出之前就已經有很強的 XEM/NEM 形象了。我認為虛擬貨幣交易所的名稱也有影響。目前我覺得那個 Symbol 應該是主鏈，所以我覺得有必要統一 XEM 鏈的名稱和虛擬貨幣交易所的名稱。如果重生為 Symbol 的子鏈，我覺得是從 NIS1 改名的好機會。
 
 The name NIS1 was strongly associated with XEM/NEM before the launch of symbol. I think that the name may also be influenced by the ticker symbol of crypto currency exchanges. I feel that the name of the XEM chain and the name of crypto currency exchange need to be unified, as we believe that symbol should be the main chain at present. If NIS1 is going to be reborn as a sub-chain of Symbol, I think it is a good opportunity to change the name from NIS1.
 
-Symbol是太普通的詞。符號在會議和會議上不是一個快照，我覺得這個名字並沒有傳達它的目的或目的。
+* Symbol 是太普通的詞。 Symbol 在談判和會議上聽起來不好，我覺得這個名字並沒有傳達它的目的或使用方式。
 
 Symbol is too generic nouns. In a conference or meeting, when talking about Symbol doesn't sound right, and we feel that the name doesn't convey the purpose or use.
 
-激活 NEMHUB。增加任務，在任務中了解廣泛收集的視頻等
+* 激活 NEMHUB。增加任務，在任務中了解廣泛收集的視頻等。
 
 Use NEMHUB task more actively. Increase the number of tasks & spread the videos etc. gathered by the tasks to promote Symbol.
 
-與其重建品牌，我認為最好以通俗易懂的方式公開介紹結果，並在Symbol誕生後的階段專注於解釋和信息共享。就像採用羅氏一樣，我們將傳達引入公司的優點，並增加實際使用該鏈的公司數量。請使用它。我們將在可以披露的範圍內披露案例研究和影響。尤其是對貿易相關公司的猛烈攻擊。兼容性太好了。給“成人”一個商業型利潤和銷售增長工具的形象。NFT 領域的競爭者眾多，似乎即使無人看管它們也會增長。斥資1億打造內部分銷系統的時代已經結束。一個聰明的公司使用虛擬貨幣機制來構建一個符號為 x nem 的理性系統。認為“虛擬貨幣=冒煙”的“大人”難道不能打上烙印嗎？如果僅限於日本，則可以通過使用供應鏈改革等補貼的公司可以引入的機制來促進引入。我認為如果發現國家利益會增加，國家會合作。我對業餘意見感到抱歉。
+* 與其重建品牌，我認為最好以通俗易懂的方式公開介紹結果，並在 Symbol 誕生後的階段專注於解釋和信息共享。就像採用羅氏一樣，我們將傳達引入公司的優點，並增加實際使用該鏈的公司數量。請使用它。我們將在可以披露的範圍內披露案例研究和影響。尤其是對貿易相關公司的猛烈攻擊。兼容性太好了。給“成人”一個商業型利潤和銷售增長工具的形象。NFT 領域的競爭者眾多，似乎即使無人看管它們也會增長。斥資1億打造內部分銷系統的時代已經結束。一個聰明的公司使用虛擬貨幣機制來構建一個 Symbol 與 NEM 的理性系統。認為“虛擬貨幣=網路釣魚”的“大人”難道不能打上烙印嗎？如果僅限於日本，則可以通過使用供應鏈改革等補貼的公司可以引入的機制來促進引入。我認為如果發現國家利益會增加，國家會合作。我對業餘意見感到抱歉。
 
 Rather than rebuilding the brand, I think that the phase from now on, after the Symbol has been launched, should focus on publishing, explaining and sharing the results of the introduction in a clear way. Announce the benefits of corporate adoption, such as the adoption of Roche, and increase the number of companies that use the chain actually. It's all about enterprises using it. Show examples of how they have used it and how it works. We are particularly keen on companies in the trade sector. Publishing examples of past installations and their effects as far as you can. We are particularly interested in companies in the trade sector. I think it is the best match. The image of a commercial tool for increasing sales and profits, aimed at "business bases". There is a lot of competition in the NFT field and it will grow even if it is left alone. "The era of investing hundreds of millions in building their own distribution system is over. Smart companies are using the blockchain to build a rational system with symbol×nem." If the branding is like that, "business bases" who think that "crypto currency = fishy" may turn their attention to it. It is possible to promote the introduction of crypto currency in Japan by using a system that allows companies to use subsidies for supply chain rebuilding. I think the government would be more supportive if they knew that it would benefit the country. I apologise for my amateurish opinion.
 
 
-目前狀況不好，請活躍起來
+* 目前狀況不好，請活躍起來
 
 Stop saying only "beautiful-sounding phrases", just make it exciting.
 
-您應該考慮投資者將如何看待重建您剛剛創建的Symbol的想法。
+* 您應該考慮投資者將如何看待重建您剛剛創建的 Symbol 的想法。
 
 perceive the idea of rebuilding the Symbol you have just created.
 
 
-我認為需要 NEM（NIS1）進化的鍊是 Symbol 的強烈信息和成就。我認為需要傳達一個強烈的信息，即 Symbol 是 NEM (NIS1) 演化而來的鏈。還有它的過往記錄。
+* 我認為需要 NEM（NIS1）進化的鍊是 Symbol 的強烈信息和成就。我認為需要傳達一個強烈的信息，即 Symbol 是 NEM (NIS1) 演化而來的鏈。還有它的過往記錄。
 
 strong message that Symbol is the chain NEM (NIS1) evolved from. And also its track record as well.
 
-你在胡鬧什麼？品牌每次... 地球上的震央在哪裡？首先，這種說法僅僅是因為Symbol的價格低於 xem 並且 xym 持有者開始變得不耐煩了，不是嗎？如果您將其命名為NEM，您認為價格會上漲嗎？是否期望Symbol流向 xem？不是這樣嗎？首先，XEM/NEM是次要貨幣，現在買xym的人和我們一樣。首先，就算有好的出資者出來也沒有地方買。如果Symbol開始在各大交易所上市，得到認可，處理它的公司數量增加並被評估，價格自然應該超過xem。先有雞蛋還是先有雞，但是如果你想提高價格，為什麼不先專注於在交易所上架xym/symbol呢？?? ?? 我不認為單單上市就漲，但作為前提，除非有地方買，否則不談。
+* 你在胡鬧什麼？講過幾次品牌問題了... 困擾的核心在哪裡？首先，這種說法僅僅是因為 Symbol 的價格低於 XEM 並且 XYM 持有者開始變得不耐煩了，不是嗎？如果您將其命名為 NEM，您認為價格會上漲嗎？是否期望 Symbol 流向 XEM？不是這樣嗎？首先，XEM/NEM 是次要貨幣，現在買 XYM 的人和我們一樣。首先，就算有好的出資者出來也沒有地方買。如果 Symbol 開始在各大交易所上市，得到認可，處理它的公司數量增加並被評估，價格自然應該超過 XEM。先有蛋還是先有雞，但是如果你想提高價格，為什麼不先專注於在交易所上架 XYM/Symbol 呢？?? ?? 我不認為單單上市就漲，但作為前提，除非有地方買，否則不談。
 
 What are you always messing about with? How many times talking about branding.... Where is the epicenter of all this confusion? Isn't the whole debate just about the fact that XYM price is lower than XEM, XYM holders are getting impatient? Do you think the price will moon if you name the NEM on it? Do you think people expect that XYM will be replaced by XEM? How can that be? XEM/NEM is also a minor currency and the only people who buy XYM currently are just curious people like us. Even if there is a good fundamental, there is no place to buy it. When Symbol starts to be listed on major exchanges, and will be recognized and valued by more and more enterprises, the price will naturally surpass XEM. It's kind of a question of eggs first or chickens first, but if you want to increase the price, why not focus on listing XYM/Symbol on exchanges first? I don't think it will raise just by listing it, but the premise is that if there's no place to buy, there's nothing to talk about.
 
 
 
-包括核心開發人員，記住在小型組織中的焦慮
+* 我很擔心小組織，包括核心開發人員。
 
 I'm worried about small organisation, including the core developers.
 
-我們需要認真的討論和總結。
+* 我們需要認真的討論和總結。
 
 We need a serious discussion and conclusion.
 
-我支持，但我認為普通人使用它們而不知道它們是理想的。例如，我希望它成為其他虛擬貨幣無法做到的社交系統，例如當購買或匯款時日元變成XYM，然後返回日元。
-我是Symbol的粉絲，但我認為最理想的情況是讓普通大眾不用考慮Symbol就可以使用它。比如你買東西或轉賬時，你的日元會在不知不覺中被XYM取代我希望 Symbol 將成為其他虛擬貨幣無法做到的社會系統。
+* 我支持，但我認為普通人使用它們而不知道它們是理想的。例如，我希望它成為其他虛擬貨幣無法做到的社交系統，例如當購買或匯款時日元變成 XYM，然後返回日元。
+我是 Symbol 的粉絲，但我認為最理想的情況是讓普通大眾不用考慮 Symbol 就可以使用它。比如你買東西或轉賬時，你的日元會在不知不覺中被 XYM 取代我希望 Symbol 將成為其他虛擬貨幣無法做到的社會系統。
 
 I'm a Symbol fan, but I think the ideal situation would be for the general public to use it without thinking of the Symbol. For example, when you buy something or transfer money, your Yen will be replaced by XYM before you know it, and it will be returned to Yen. I hope that Symbol will be a system for society that other virtual currencies cannot do.
