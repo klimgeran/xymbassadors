@@ -1,4 +1,4 @@
-#NEMshow Q&A EN(CN).md
+#NEMshow Q&A EN(TC).md
 
 為什麼您總是強調nem？ 在我的觀點，Symbol與XYM的命名不好，但現在已開始，我們應該盡力而為。
 * Why do you always keep stressing nem? In my opinion, Both naming of Symbol and XYM are not good, but now it has started, we should go ahead with it.
