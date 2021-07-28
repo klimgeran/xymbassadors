@@ -66,6 +66,9 @@ Surveyees total: 17
 
   16    | XEM 
   1     | XEM & XYM
+  
+  <img width="633" alt="截圖 2021-07-28 上午11 39 14" src="https://user-images.githubusercontent.com/87372647/127259991-22bc3f06-4cad-4f21-a8b9-754d5adca62f.png">
+
 
 In the previous Symbol, our ecosystem had only one relationship: NEM-or NIS1-blockchain, XEM was the only NEM token at that time.
 
