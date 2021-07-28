@@ -83,6 +83,9 @@ In the previous Symbol, our ecosystem had only one relationship: NEM-or NIS1-blo
   7     | XYM 
   7     | XEM & XYM
 
+
+<img width="639" alt="截圖 2021-07-28 上午11 42 31" src="https://user-images.githubusercontent.com/87372647/127260129-c4c22a9d-9b88-4ba7-9ff6-8c26ffae3393.png">
+
 Observing now,there is still a state of development for NEM projects in the market recently. I am very ignorant of this development. It is very important to know what is XEM and what is XYM.
 
 * 目前觀察，近期市場上NEM項目仍有發展態勢。我對這種發展一無所知。了解什麼是 XEM 以及什麼是 XYM 非常重要。
@@ -93,6 +96,9 @@ Observing now,there is still a state of development for NEM projects in the mark
 
   6     | Yes 
   11    | No
+
+<img width="638" alt="截圖 2021-07-28 上午11 43 27" src="https://user-images.githubusercontent.com/87372647/127260177-ae2f43d3-2c2c-42b5-a616-8878c8ac3bb0.png">
+
 
 The current market friends all love the NEM life brand. It is a brand for many years and a deeply cultivated person. I personally don’t know it, I can only recognize it.
 
@@ -107,6 +113,10 @@ The current market friends all love the NEM life brand. It is a brand for many y
 
   9     | Yes 
   8     | No 
+  
+  <img width="636" alt="截圖 2021-07-28 上午11 44 06" src="https://user-images.githubusercontent.com/87372647/127260225-b2eefcc5-6d95-458a-a77b-2be76fedbe55.png">
+
+  
 
 From the answer, it can be said that in the past, the friends in the market think that it should be rebranded to NEM-NIS1. t is a brand of years. It supports long-lasting people want to keep NEM name, I think this is very important.
 
@@ -117,6 +127,10 @@ From the answer, it can be said that in the past, the friends in the market thin
 * 05.-“Symbol”應該更名嗎？
 
   17    | No
+  
+  
+  <img width="637" alt="截圖 2021-07-28 上午11 44 31" src="https://user-images.githubusercontent.com/87372647/127260249-06307d3c-a9f0-4d95-94ff-f0177db70ef4.png">
+
 
 All respondents believe that Symbol should be retained. It is found that an accurate understanding of Symbol is easier to associate with the stock code XYM, and the market consensus will not to change
 
@@ -128,6 +142,10 @@ All respondents believe that Symbol should be retained. It is found that an accu
 
   9     | Symbol 
   7     | NEM
+  
+  <img width="636" alt="截圖 2021-07-28 上午11 44 53" src="https://user-images.githubusercontent.com/87372647/127260280-8a1eae33-06a1-4b20-8ea0-a2306fd7a5b2.png">
+
+  
 
 It seems that he has his own supporters. I hope I "understand" Symbol, because the symbol is the next evolution of the ecosystem, and I hope more people can understand it.
 
@@ -139,6 +157,9 @@ It seems that he has his own supporters. I hope I "understand" Symbol, because t
 
   8     | Symbol 
   9     | NEM
+ 
+ <img width="635" alt="截圖 2021-07-28 上午11 45 18" src="https://user-images.githubusercontent.com/87372647/127260309-b07afa8f-d361-463c-9833-1ba8efce8b64.png">
+
  
 It will be the main representative of our ecosystem. Symbol, which has always been popular under the spotlight, in response to future development, it is the best development to use Symbol as the main development.
 
@@ -153,6 +174,10 @@ It will be the main representative of our ecosystem. Symbol, which has always be
   7     | Symbol 
   9     | NEM Symbol
   1     | Symbol NEM
+  
+  
+  <img width="646" alt="截圖 2021-07-28 上午11 45 42" src="https://user-images.githubusercontent.com/87372647/127260337-58f0a291-7169-460e-8e58-dcb898786538.png">
+
 
 More people regard NEM Symbol as a "Symbol". This can help explain why a symbol might become a successful brand, because its association patterns are different, although it seems that there are people who like Symbol and NEM Symbol and need to be more clearly distinguished
 
@@ -173,6 +198,9 @@ More people regard NEM Symbol as a "Symbol". This can help explain why a symbol 
   8     | 2 votes 
   9     | 2 votes 
   10    | 7 votes
+
+<img width="643" alt="截圖 2021-07-28 上午11 46 08" src="https://user-images.githubusercontent.com/87372647/127260374-bfddc74a-2f2a-4486-89f5-388fa004ffde.png">
+
 
 Seeing some concerned about the development of the brand are very popular
 
