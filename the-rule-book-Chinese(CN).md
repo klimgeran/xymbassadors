@@ -3,6 +3,8 @@ the-rule-book-Chinese(CN).md
 规则手册翻译(CN)
 ===
 ![](https://i.imgur.com/X9TJ9gb.png)
+
+
 你好，敬重的人们。
 
 在您继续之前，您需要同意以下规则。请用表情符号表示您的同意。[SYY / SYY + ACK / ACK]即使以表情符号的形式存在分歧，也将接受软件包。
