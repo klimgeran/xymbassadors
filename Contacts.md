@@ -26,7 +26,7 @@ Please update your personal information, and include hyperlinks.
 | Angel | @angelnem | angelnem#3452 |https://twitter.com/bestgoldangel
 | Johnny | @JohnnyTongki | Johnny77#6191 |https://twitter.com/TongkiJohnny
 | Mikun | @mikunNEM | mikunNEM#6130 |https://twitter.com/mikunNEM
-| Hexagon | https://t.me/@HexagonTR| hexagontr#1470 | https://twitter.com/Hexagon_tr
+| Hexagon | https://t.me/HexagonTR| hexagontr#1470 | https://twitter.com/Hexagon_tr
 | Ana | @ana912 | AnaPikachu912#6226 |
 | David Ham | @Davham | D..H..#5923 |
 | Leon Redinger | https://t.me/leonRED | leonRED#1325 | https://twitter.com/leonRED |
