@@ -1,4 +1,4 @@
-| Community Member | URL | Language |
+| Managed By | URL | Language |
 | --------------- | --------------- | --------------- |
 | Klim | https://nemnews.io/ | Russian  |
 | Klim | https://nemitalia.io/ | Italian |
