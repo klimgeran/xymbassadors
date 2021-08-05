@@ -1,6 +1,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/PImaZLS-Qt-X13YezmsfKA/badge)](https://hackmd.io/PImaZLS-Qt-X13YezmsfKA)
 
-# Community Sentiment Report | Branding
+# BSR1
+## Community Sentiment Report | Branding
 ###### tags: `reports`
 
 Since the launch of Symbol, it has become clear that our branding approach needs to be better defined. This community sentiment report has been commissioned to help in this cause.
