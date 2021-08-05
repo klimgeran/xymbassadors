@@ -1,4 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/tyql7KqgQaKZQdnzRfgkvw/badge)](https://hackmd.io/tyql7KqgQaKZQdnzRfgkvw)
 
+# Turkish Discord Rules
+## Türkçe anlaşmazlık kuralları
+###### tags: `translations | regional docs`
 
 [Duyarlı Yaşam Formu Algılandı...]
 
