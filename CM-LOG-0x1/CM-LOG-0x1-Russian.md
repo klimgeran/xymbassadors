@@ -1,18 +1,12 @@
-# [Russian] COMMUNITY LOG 0x1
+[![hackmd-github-sync-badge](https://hackmd.io/pq78fNMmSRqu6-XHlFthzA/badge)](https://hackmd.io/pq78fNMmSRqu6-XHlFthzA)
 
-
----
-
-# Вопросы и ответы от основных разработчиков Gimre, Hatchet и Jaguar. (ЧАСТЬ 1)
-
+# CM-LOG-0x1-Russian
+## Вопросы и ответы от основных разработчиков Gimre, Hatchet и Jaguar. (ЧАСТЬ 1)
 
 ---
 Статья также опубликована на сайте `NEMNEWS` 👉 [ЗДЕСЬ](https://nemnews.io/voprosy-i-otvety-ot-osnovnyh-razrabotchikov-gimre-hatchet-i-jaguar-chast-1/). 
 
-
 ---
-
-
 **Программа Супернод**
 
 1. Что происходит с программой Супернод? Почему задерживаются вознаграждения ?
