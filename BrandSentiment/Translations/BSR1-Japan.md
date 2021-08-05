@@ -1,5 +1,8 @@
 # **Community Sentiment Report | Branding<br>Japanese translation**<br> Symbolブランディングに関するセンチメントレポート
 
+[![hackmd-github-sync-badge](https://hackmd.io/TplUCI9PTfmVRUxyOkk7eQ/badge)](https://hackmd.io/TplUCI9PTfmVRUxyOkk7eQ)
+
+
 
 この記事は[Community Sentiment Report | Branding](https://hackmd.io/PImaZLS-Qt-X13YezmsfKA?view)の日本語訳になります。
 
