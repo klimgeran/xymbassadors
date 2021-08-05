@@ -1,7 +1,8 @@
-# LOG KOMUNITAS 0x1
-
 [![hackmd-github-sync-badge](https://hackmd.io/5DKQauofReyikmXVboi9fg/badge)](https://hackmd.io/5DKQauofReyikmXVboi9fg)
 
+# CM-LOG-0x1-Indonesian
+## LOG KOMUNITAS 0x1
+###### tags: `translations | regional docs`
 
 Ini adalah bagian pertama dalam Q&A komunitas dua bagian dengan [Gimre](https://twitter.com/NCOSIGIMCITYNRE), [Hatchet](https://twitter.com/0x6861746366574) & [Jaguar](https://twitter.com/Jaguar0625).
 
