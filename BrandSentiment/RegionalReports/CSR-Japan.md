@@ -1,5 +1,8 @@
-# Community Sentiment Report_ Japanese Community_ Results.<br>コミュニティリポート<br>Symbol ブランディングに関するディスカッション集計結果  
+[![hackmd-github-sync-badge](https://hackmd.io/QDLq4DtbTMyVFO2FjEQ1Mw/badge)](https://hackmd.io/QDLq4DtbTMyVFO2FjEQ1Mw)
 
+# CSR-Japan
+## Japanese Community Sentiment Report
+###### tags: `translations | regional docs`
 
 ![](https://i.imgur.com/Vugg237.jp結果
 
