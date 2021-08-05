@@ -1,4 +1,8 @@
-# [Japanese]COMMUNITY LOG 0x1 (Q&Aの回答その1)
+[![hackmd-github-sync-badge](https://hackmd.io/DJj102aWRuaNjg_HY1rhTw/badge)](https://hackmd.io/DJj102aWRuaNjg_HY1rhTw)
+
+# CM-LOG-0x1-Japanese
+## [Japanese]COMMUNITY LOG 0x1 (Q&Aの回答その1)
+###### tags: `translations | regional docs`
 
 [Gimre](https://twitter.com/NCOSIGIMCITYNRE), [Hatchet](https://twitter.com/0x6861746366574) と [Jaguar](https://twitter.com/Jaguar0625) によって行われたコミュニティQ&Aをふたつに分けて回答します、これは最初の回答です。
 
