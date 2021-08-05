@@ -1,4 +1,8 @@
-# REGISTRO DE LA COMUNIDAD 0x1
+[![hackmd-github-sync-badge](https://hackmd.io/h_u8VCwxRhaC7vedxjdXWg/badge)](https://hackmd.io/h_u8VCwxRhaC7vedxjdXWg)
+
+# CM-LOG-0x1-Spanish
+## REGISTRO DE LA COMUNIDAD 0x1
+###### tags: `translations | regional docs`
 
 *Esta es la primera parte de una serie de preguntas y respuestas de la comunidad con [Gimre](https://twitter.com/NCOSIGIMCITYNRE), [Hatchet](https://twitter.com/0x6861746366574) & [Jaguar](https://twitter.com/Jaguar0625).*
 
