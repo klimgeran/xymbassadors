@@ -1,4 +1,9 @@
-#Community sentiment report_Chinese_Community
+[![hackmd-github-sync-badge](https://hackmd.io/OEGPu-N2QJW2UpbGqUsBQA/badge)](https://hackmd.io/OEGPu-N2QJW2UpbGqUsBQA)
+
+# CSR-Chinese
+## Chinese Community Sentiment Report
+###### tags: `translations | regional docs`
+
 社區情緒報告_中文版
 
 This is a report on the current community sentiment on the NEM and Symbol brands. It´s based on the Chinese Speaking Community.
