@@ -1,5 +1,8 @@
-# The rule-book translation (Russian)
-# [Перевод правил сервера дискорд Symbol]
+[![hackmd-github-sync-badge](https://hackmd.io/R2Y9ixl-SKe6nI230aCaeg/badge)](https://hackmd.io/R2Y9ixl-SKe6nI230aCaeg)
+
+# Russian Discord Rules
+## [Перевод правил сервера дискорд Symbol]
+###### tags: `translations | regional docs`
 
 ![logo1](https://i.imgur.com/dtTs1Pz.gif)
 
