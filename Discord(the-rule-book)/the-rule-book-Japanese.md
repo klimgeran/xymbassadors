@@ -1,9 +1,8 @@
-# **The Rule-Book on Japanese**
+[![hackmd-github-sync-badge](https://hackmd.io/XWLM0qFdTmu-ruezN4yqWg/badge)](https://hackmd.io/XWLM0qFdTmu-ruezN4yqWg)
 
-
-# DISCORDルールブック
-
-
+# Japanese Discord Rules
+## DISCORDルールブック
+###### tags: `translations | regional docs`
   
  ![](https://images-ext-2.discordapp.net/external/iaB1ucYGo2OtnqatLf4en4eCBrlbM3TloFsNr_IQoLQ/https/cdn.mee6.xyz/guild-images/856325968096133191/fc23b232e2e99bce02f2609230be31786dc2c8fc923eba93916ed42d550e673f.gif?width=448&height=448)
 
