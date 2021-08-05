@@ -1,4 +1,8 @@
-## Russian-speaking community sentiment report
+[![hackmd-github-sync-badge](https://hackmd.io/Ny7DC9CCQiGAmPl9tsAuXA/badge)](https://hackmd.io/Ny7DC9CCQiGAmPl9tsAuXA)
+
+# CSR-Russian
+## Russian Community Sentiment Report
+###### tags: `translations | regional docs`
 
 ![Logo1](https://i.imgur.com/T1Ibs48.jpg)
 
