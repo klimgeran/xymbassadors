@@ -15,7 +15,8 @@ This time I will explain and show you step by step how to prepare and run a Symb
 First thing you have to know is that you don't need to hold XYM to run a Symbol Node on your own or rented server.
 
 ### Other useful Symbol node guides:
-:::spoiler
+<details>
+  <summary>Details</summary>
 * *Running a Symbol node official guide* https://docs.symbolplatform.com/guides/network/running-a-symbol-node.html
  
 * *The 23 € Symbol Node by* Fernando Boucquez https://dev.to/fboucquez/the-23-symbol-node-3c41
@@ -28,11 +29,10 @@ https://help.allnodes.com/en/articles/5119173-how-to-setup-a-symbol-harvester-no
 
 * *How to Run Symbol Node with Docker Desktop Windows 10* by Hexagon
 https://community.nem.io/cboard/activity/38154-how-to-run-symbol-node-with-docker-desktop-windows-10/
-:::
-
-
+</details>
 
 ---
+
 Ok, so assuming you’ve decided to follow my guide, here we go:
 
 First off, you need a server running CentOS 8. If you already have one, skip to "**Connecting to your server**".
@@ -40,7 +40,8 @@ First off, you need a server running CentOS 8. If you already have one, skip to 
 Make sure to check the Hardware requirements before you rent a server.
 
 ### Minimum node specifications 
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 | Requirement | Peer node     | API node      |
 | ----------- | ------------- | ------------- |
@@ -49,12 +50,14 @@ Make sure to check the Hardware requirements before you rent a server.
 | Disk size   | 500 GB        | 750 GB        |
 | Disk speed  | 1500 IOPS SSD | 1500 IOPS SSD |
 
-:::
+</details>
+
 ---
 
 ### Recommended node specifications
 
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 | Requirement | Peer node     | API node      | Dual & Voting node |
 | ----------- | ------------- | ------------- | ------------------ |
@@ -63,12 +66,13 @@ Make sure to check the Hardware requirements before you rent a server.
 | Disk size   | 500 GB        | 750 GB        | 750 GB             |
 | Disk speed  | 1500 IOPS SSD | 1500 IOPS SSD | 1500 IOPS SSD      |
 
-:::
+</details>
+
 ---
 
 ### A list of websites from where you can rent a root server based on your needs.
-
-:::spoiler
+<details>
+  <summary>Details</summary>
 Only Netcup and Contabo servers have been tested so far.
 It’s better and essential that we don’t rent our servers all from the same place and try to spread across the globe, so if you live in the USA, you could try to host a server in the USA or close by. Some websites might even require some time to process your information (KYC) before you are able to start with your node’s installation.
 ### https://www.netcup.eu/vserver/
@@ -99,6 +103,7 @@ Root linux server starting at €12,90 / month (I haven’t tested it yet - make
 - 320 GB SSD
 
 ![](https://i.imgur.com/kpgNkjI.png)
+ 
 ---
 
 #### https://www.strato.nl/server/dedicated-server-linux/
@@ -109,14 +114,17 @@ AMD Opteron 4180 - DEDICATED LINUX SERVER D200 starting at €31 / month
 - 2 TB HDD
 
 ![](https://i.imgur.com/zfN7uRC.png)
-:::
+</details>
+
 ---
+
 *I suggest you follow the next steps after you have access to your server control panel. Usually you get a welcome email from your hosting.*
 
 Some servers might come with a preinstalled OS, so you’ll have to go in your SCP (server control panel), media / images and install CentOS 8 
 
 ### How to install CentOS 8 from your server's control panel
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 ![](https://i.imgur.com/rQKdZFY.png)
 
@@ -178,11 +186,13 @@ What’s the next step?
 Connecting to your server.
 
 
-:::
+</details>
+
 ---
 
 ### Connecting to your server
-:::spoiler
+<details>
+  <summary>Details</summary>
 You can connect to your server either by using your console “ssh root@YourIP” 
 
 ![](https://i.imgur.com/1WV0DOX.png)
@@ -207,7 +217,8 @@ Copy / Paste (right click) the root password you got in your email or in the con
 After you’ve successfully logged in with your root username, your screen should look similar to this:
 
 ![](https://i.imgur.com/IRNhwOu.png)
-:::
+</details>
+
 ---
 
 #### For the next steps make sure you copy / paste each command, one at a time. 
@@ -215,7 +226,8 @@ After you’ve successfully logged in with your root username, your screen shoul
 The smallest changes in code will result in error.**
 
 ### Creating a new user account
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 ### Use following command to create the user account symbolnode:
 `adduser symbolnode`
@@ -232,11 +244,12 @@ Add the user to the sudo-enabled usergroup (we need the sudo command for install
 usermod -aG wheel symbolnode
 su - symbolnode
 ```
-:::
+</details>
 
 
 ### Install environment requirements
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 ### Install and configure docker with the following commands:
 
@@ -312,10 +325,11 @@ The output should be similar to:
 
 
  Once you have verified your docker-compose version and node version, you can continue with the installation of symbol-bootstrap.
-:::
+</details>
 
 ### Install and configure symbol-bootstrap
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 
 ### Use the following command to install symbol-bootstrap:
@@ -409,11 +423,12 @@ Connect to your node via web, check that the following URLs return valid data.
 http://YourNodesIP:3000/node/info for node health.
 
 http://YourNodesIP:3000/chain/info for node connection to the mainnet.
-:::
+</details>
 
 
 ### Updating symbol-bootstrap
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 **You don't need to update your symbol-bootstrap if you've just installed it.**
 
@@ -435,13 +450,14 @@ If update was successful, remove backup of target folder:
 
 `rm -r target_backup`
 
-:::
+</details>
 
 ---
 
 ### Useful commands
 
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 To stop your node use:
 
@@ -467,13 +483,14 @@ To start fresh with symbol-bootstrap, for example if you experience problems wit
 `docker system prune -a`
 
 `sudo rm -r target`
-:::
+</details>
 
 ---
 
 ### How to link your node's IP to a hostname / domain name
 
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 First you need a domain. If you don't have one, get one.
 
@@ -542,12 +559,13 @@ To check if symbol-bootstrap runs without problems use:
 ![](https://i.imgur.com/56zTlfv.png)
 
 It might take a few minutes for the changes to take place so don't get impatient if you don't see it right away.
-:::
+</details>
 
 ---
 
 ### How to promote your Symbol node
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 1. Create a social media page dedicated to your node or use your own social media accounts to promote it.
 
@@ -559,11 +577,12 @@ It might take a few minutes for the changes to take place so don't get impatient
 4. Talk about harvesting and share your node's hostname/ip with your followers, friends and other community members.
 
 Example: http://xym.farm
-:::
+</details>
 
 
 ### How to get your node listed on https://symbol-tools.com/symbolTools/view/tool/nodeList.html
-:::spoiler
+<details>
+  <summary>Details</summary>
 ![](https://i.imgur.com/1XX8oGq.png)
 
 1. Send a minimum transaction of 10XYM to NBQTX4-XC7U3C-ZEVJU3-32KMFU-HO4KSR-N665FS-B2A including a message like the one you will see below.
@@ -597,13 +616,14 @@ https://symbol-tools.com/symbolTools/view/tool/donateAdGuide.html
 ![](https://i.imgur.com/4iLPy5l.png)
 
 If want to have your node on top of the list, you'll have to donate more than the one who's on the spot you wish to be on.
-:::
+</details>
 
 ---
 
 ### How to get your node's main address private key and add it in your Symbol Wallet
 
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 In order to send a transaction from your node's main symbol address, you need the private key. 
 If you don't have it, you can get it by connecting to your server with your symbolnode username and by using the following commands:
@@ -641,12 +661,14 @@ Your node's main account will show under "Private key accounts".
 
 After adding your node's main address in your Symbol Wallet, go back to the last step and continue the guide on "How to get your node listed on https://symbol-tools.com/symbolTools/view/tool/nodeList.html"
 
-:::
+</details>
+
 ---
 
 ### How to monitor your node on Telegram with [@XymHarvestMonitorbot](https://t.me/XymHarvestMonitorbot) 
 
-:::spoiler
+<details>
+  <summary>Details</summary>
 
 This bot will help you monitor your node and wallet.
 
@@ -712,5 +734,6 @@ Your language has changed from Japanese to English.
 
 `/tweet` - Change tweet link mode
 
-:::
+</details>
+
 ---
