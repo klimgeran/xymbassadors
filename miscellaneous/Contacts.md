@@ -21,7 +21,7 @@ Please update your personal information, and include hyperlinks.
 | Alexis |http://node.xym.show |[www.xym.show](https://xym.show/) | @psputnik | psputnik#2769 | [@NEM_bol](https://twitter.com/NEM_bol)
 | Carlos |http://node.symbolblogespanol.com|[SymbolBlogEspanol.com](https://symbolblogespanol.com/?page_id=568) | @Oldskull1982 | OldSkull1982#1973 |[@todo_nem](https://twitter.com/todo_nem)
 | Leo |[symbol.schwab.rio](http://symbol.schwab.rio)|https://symbolportu.com/ | @leoschwab | leoschwab#0173 |
-| Klim |http://node.symbolplatform.ru:3000 |http://symbolplatform.com http://nemnews.io http://nemitalia.io| [klimgeran](https://t.me/klimgeran) | klimgeran#4414 |https://twitter.com/GeranKlim
+| Klim |http://node.symbolplatform.ru:3000 |symbolplatform.com ; nemnews.io ; nemitalia.io | [klimgeran](https://t.me/klimgeran) | klimgeran#4414 |https://twitter.com/GeranKlim
 | Abderrahmane | | | @Bouterfaya | Abderrahmanebouterfaya#7076 |
 | DTBYChris | | | @dtbychris | Dtbychris#4883 |
 | Angel |http://202.61.199.238:3000 |https://symbolplatform.com | @angelnem | angelnem#3452 |
