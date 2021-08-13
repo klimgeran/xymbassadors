@@ -133,6 +133,8 @@ The main points are:
 
 *For the full report:* https://docs.google.com/forms/d/e/1FAIpQLSfEfLNyRlEBAcs3kkM_1rx-ZN1tEm3IVKPgy6PhcIkCTkucVQ/viewanalytics
 
+https://github.com/symbol/xymbassadors/blob/main/BrandSentiment/RegionalReports/CSR-Russian.md
+
 **Spanish**
 
 With over 540 million native speakers, Spanish is the 3rd most spoken language in the world. Community moderators, Alexis and Carlos, compiled this report.
