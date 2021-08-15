@@ -22,5 +22,5 @@
 | 18  | EXMO             |                            |                                                 [XYM/BTC ](https://exmo.com/en/trade/XYM_BTC)                                                  |
 | 19  | Xtheta Global    |                            |                                          [XYM/USDT ](https://www.xthetaglobal.com/exchange/XYM/USDT)                                           |
 |20    | BHEXOfficial                |                |  [XYM/USDT ](https://www.bhex.com/en-us/m/exchange/XYM/USDT)                 |
-
+|21    | Bitmart         |                            |  [XYM/USDT ](https://www.bitmart.com/markets/jp)                 |
 
