@@ -1,7 +1,9 @@
 # Symbol Node Run Guide (Mac OS, Linux)
 
-# 
+# ![](https://i.imgur.com/cy01Aci.jpg)
+
 Guide prepared by [@klimgeran](https://twitter.com/GeranKlim)
+
 
 _____
 Be sure to check out another guide that is more suitable for Windows users. Guide author[CB](http://xym.farm/):
