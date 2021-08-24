@@ -1,5 +1,6 @@
-**Symbol Node Run Guide (Mac OS, Linux)**
+# Symbol Node Run Guide (Mac OS, Linux)
 
+# 
 Guide prepared by [@klimgeran](https://twitter.com/GeranKlim)
 
 _____
