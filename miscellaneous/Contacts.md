@@ -30,5 +30,5 @@ Please update your personal information, and include hyperlinks.
 | Nia | |[nemberindo.com](https://nemberindo.com/) | @niaShaa | Niashaa#4165 |
 | Oliver | | | @OliverMuldoon | OliverCrypto#9982 |
 | Radio |xym602.allnodes.me| | @Radio_RadioNEMber | Radio#1051 | [@RadioRa26841511](https://twitter.com/RadioRa26841511) | 
-| Samiur | | | @himel234 | Samiur#2511 |https://twitter.com/SamiurR76186237 |
+| Samiur | |https://symbolblogbd.com/ | @himel234 | Samiur#2511 |https://twitter.com/SamiurR76186237 |
 | SJM211 | http://xymharvesting.net | http://symbolblog.com | @xharvesting | XHarvesting#4362 |https://twitter.com/blog_symbol & https://twitter.com/XHarvesting
