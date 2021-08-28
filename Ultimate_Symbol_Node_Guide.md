@@ -583,6 +583,7 @@ Example: http://xym.farm
 ### How to get your node listed on https://symbol-tools.com/symbolTools/view/tool/nodeList.html
 <details>
   <summary>Details</summary>
+  
 ![](https://i.imgur.com/1XX8oGq.png)
 
 1. Send a minimum transaction of 10XYM to NBQTX4-XC7U3C-ZEVJU3-32KMFU-HO4KSR-N665FS-B2A including a message like the one you will see below.
