@@ -56,7 +56,9 @@ We go to your personal account and open the section:
 Next, move on to installing # centos 8 (core) - minimal
 ![2](https://i.imgur.com/lAwelUV.png)
 ![3](https://i.imgur.com/fcSOQJp.png)
-Save your new root password and system data![4](https://i.imgur.com/j074kaL.png)
+
+Save your new root password and system data![4]
+(https://i.imgur.com/j074kaL.png)
 
 Preliminary steps for setting up hosting were shown here. Installation Cent OS 8.x (64 bit)on VPS server https://contabo.com/ is as follows:
 ![](https://i.imgur.com/15zaKZj.png)
