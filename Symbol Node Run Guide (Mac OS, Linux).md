@@ -58,7 +58,10 @@ Next, move on to installing # centos 8 (core) - minimal
 ![3](https://i.imgur.com/fcSOQJp.png)
 Save your new root password and system data![4](https://i.imgur.com/j074kaL.png)
 
-Preliminary steps for setting up hosting were shown here. Each hosting has its own settings, but this article showed the basic principle of how to properly set up your hosting. So that you can run your Symbol node on your hosting!
+Preliminary steps for setting up hosting were shown here. Installation Cent OS 8.x (64 bit)on VPS server https://contabo.com/ is as follows:
+![](https://i.imgur.com/15zaKZj.png)
+
+Each hosting has its own settings, but this article showed the basic principle of how to properly set up your hosting. So that you can run your Symbol node on your hosting!
 
 **Run the Symbol node via the terminal**
 
@@ -69,8 +72,10 @@ Working in the terminal is pretty simple:
 Open the terminal: **ssh root@44.132.44.88** 
 
 **ssh root@(Your hosting ip)**
+![](https://i.imgur.com/H5WMkpn.png)
 
-Root password, you should have received your password to your email: yvQy&^wd56 (Example)
+
+Root password, you should have received your password to your email.
 
 **Use the following command to create a symbolnode user account:**
 
