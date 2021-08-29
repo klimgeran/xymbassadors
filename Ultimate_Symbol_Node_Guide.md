@@ -599,8 +599,8 @@ Example: http://xym.farm
 * limitHarvesterCount - max harvesters 
 * twitteraccount without @ 
 * comment: your node's description
-* detailUrl: your node's host
-
+* detailUrl: URL of the webpage that describes the details of your node or any other webpage.
+  
 2. To get on top of the list as you can see in the picture below, send a transaction from the **node's main symbol account** to the same address. 
 
 NBQTX4-XC7U3C-ZEVJU3-32KMFU-HO4KSR-N665FS-B2A
