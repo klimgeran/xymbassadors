@@ -26,9 +26,9 @@ Please update your personal information, and include hyperlinks.
 | Klim |http://node.symbolplatform.ru:3000 |symbolplatform.com ; nemnews.io ; nemitalia.io | [klimgeran](https://t.me/klimgeran) | klimgeran#4444 |https://twitter.com/GeranKlim
 | Leo |[symbol.schwab.rio](http://symbol.schwab.rio)|https://symbolportu.com/ | @leoschwab | leoschwab#0173 |
 | Leon Redinger | http://xym.rocks | | https://t.me/leonRED | leonRED#1325 | https://twitter.com/leonRED |
-| Mikun |[3bce.c.time4vps.cloud](https://3bce.c.time4vps.cloud:3001/node/info) | | @mikunNEM | mikunNEM#6130 |https://twitter.com/mikunNEM
+| Mikun |[symbol-mikun.net](https://symbol-mikun.net:3001/node/info) | | @mikunNEM | mikunNEM#6130 |https://twitter.com/mikunNEM
 | Nia | |[nemberindo.com](https://nemberindo.com/) | @niaShaa | Niashaa#4165 |
 | Oliver | | | @OliverMuldoon | OliverCrypto#9982 |
 | Radio |xym602.allnodes.me| | @Radio_RadioNEMber | Radio#1051 | [@RadioRa26841511](https://twitter.com/RadioRa26841511) | 
-| Samiur | | | @himel234 | Samiur#2511 |https://twitter.com/SamiurR76186237 |
+| Samiur | |https://symbolblogbd.com/ | @himel234 | Samiur#2511 |https://twitter.com/SamiurR76186237 |
 | SJM211 | http://xymharvesting.net | http://symbolblog.com | @xharvesting | XHarvesting#4362 |https://twitter.com/blog_symbol & https://twitter.com/XHarvesting
