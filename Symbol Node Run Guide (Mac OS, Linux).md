@@ -313,14 +313,16 @@ vim plain-addresses.yml
 
 **Then enter the command to exit**
 
-If you have this error enter the command:
-Error: Destination file plain-addresses.yml already exists!
-
-ls -a
-
 
 ```
 :q
+```
+
+If you have this error enter the command:
+Error: Destination file plain-addresses.yml already exists!
+
+```
+ls -a
 ```
 **Enter another command (to remove custom.yml)**
 
