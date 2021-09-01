@@ -23,7 +23,7 @@ Please update your personal information, and include hyperlinks.
 | CB |[xym.farm](http://xym.farm)|http://xym.farm| [@C2daB](https://t.me/c2dab) | C2daB#1651 | [@DjCellBlock](https://www.twitter.com/DjCellBlock) |
 | DraGonCHRIS |xym525.allnodes.me | https://symboltcnews.com/ | @dtbychris | Dtbychris#4883 |https://twitter.com/NEM_Taiwanese |
 | Hexagon |[node.symboltr.blog](http://node.symboltr.blog:3000) |[symboltr.blog](https://symboltr.blog) | [hexagontr](https://t.me/HexagonTR)| hexagontr#1470 |[hexagon_tr](https://twitter.com/hexagon_tr)
-| Klim |[nis2.host] (http://nis2.host/) |(symbolplatform.com) ; nemnews.io ; nemitalia.io | [klimgeran](https://t.me/klimgeran) | klimgeran#4444 |https://twitter.com/GeranKlim
+| Klim |[nis2.host](http://nis2.host/) |(symbolplatform.com) ; nemnews.io ; nemitalia.io | [klimgeran](https://t.me/klimgeran) | klimgeran#4444 |https://twitter.com/GeranKlim
 | Leo |[symbol.schwab.rio](http://symbol.schwab.rio)|https://symbolportu.com/ | @leoschwab | leoschwab#0173 |
 | Leon Redinger | http://xym.rocks | | https://t.me/leonRED | leonRED#1325 | https://twitter.com/leonRED |
 | Mikun |[symbol-mikun.net](https://symbol-mikun.net:3001/node/info) | | @mikunNEM | mikunNEM#6130 |https://twitter.com/mikunNEM
