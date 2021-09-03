@@ -325,7 +325,7 @@ vim plain-addresses.yml
 If you have this error enter the command:
 Error: Destination file plain-addresses.yml already exists!
 
-SKIP THIS COMMAND USE IF YOU HAVE AN ERROR WITH plain-addresses.yml
+# SKIP THIS COMMAND USE IF YOU HAVE AN ERROR WITH plain-addresses.yml
 ```
 ls -a
 ```
