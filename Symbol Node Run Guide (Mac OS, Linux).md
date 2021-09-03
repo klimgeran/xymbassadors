@@ -388,8 +388,8 @@ Your node main account will be displayed in the Accounts section.
 **Stop node to update settings** 
 
 (edit your custom.yml config file) 
-symbol-bootstrap stop
-vim custom.yml (Open file)
+1. *symbol-bootstrap stop*
+2. *vim custom.yml* (Open file)
 Select you want to overwrite: R
 i (change file)
 
