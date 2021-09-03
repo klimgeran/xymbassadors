@@ -232,9 +232,13 @@ You should see the following in the terminal:
 
 ![7](https://i.imgur.com/cg5Jfcl.png)
 
-Before we will run node Symbol, we will create a custom configuration file custom.yml with VIM.
+Before we will run node Symbol, we will create a custom configuration file custom.yml with VIM or NANO.
 
 To do this, run the command:
+
+```
+vim custom.yml
+```
 
 ```
 nano custom.yml
