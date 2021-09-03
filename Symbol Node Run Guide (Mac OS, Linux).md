@@ -325,10 +325,17 @@ vim plain-addresses.yml
 If you have this error enter the command:
 Error: Destination file plain-addresses.yml already exists!
 
+SKIP THIS COMMAND USE IF YOU HAVE AN ERROR WITH plain-addresses.yml
 ```
 ls -a
 ```
 **Enter another command (to remove custom.yml)**
+
+```
+rm plain-addresses.yml
+```
+
+Running a node:
 
 ```
 symbol-bootstrap start -p mainnet -a dual -c custom.yml -d
