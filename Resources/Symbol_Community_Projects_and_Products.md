@@ -42,18 +42,35 @@ https://symbolblog.com/
 
 ## nemedia
 
-(insert logo)
+
 ![](https://i.imgur.com/fukLffT.png)
-(insert description)
-New Economy Movement Media "nemedia" is a Japanese community made blog site which gathers blockchain and crypto currency information about NEM (XEM) and Symbol (XYM).　https://nemedia.jp
-(insert images)
+
+
+New Economy Movement Media "nemedia" is a Japanese community made blog site which gathers blockchain and crypto currency information about NEM (XEM) and Symbol (XYM).　
+
+👉 https://nemedia.jp
+
 
 
 ## StackOfStake
 
-(insert logo)
 ![](https://i.imgur.com/GnCESqL.png)
-(insert description)
 
-ℹ️ StackOfStake is a staking and masternodes investment platform. It is providing a seamless investment experience for digital assets based on Proof-Of-Stake technology. The instant rewards compounding, high servers uptime, and fully-automated management ensure the highest staking profitability rate.　https://stackofstake.com
-(insert images)
+
+ℹ️ StackOfStake is a staking and masternodes investment platform. It is providing a seamless investment experience for digital assets based on Proof-Of-Stake technology. The instant rewards compounding, high servers uptime, and fully-automated management ensure the highest staking profitability rate. 
+
+👉 https://stackofstake.com
+
+
+___
+
+## StakeHound
+
+![](https://i.imgur.com/oktAYwi.png)
+
+
+
+A liquid staking enabler – StakeHound brings the benefits of both DeFi and Staking together. With three major protocols already live: stETH, stXEM and stXYM, StakeHound is focused on building bridges between staking protocols and Ethereum’s DeFi. StakeHound is a swiss company that follows strict compliance procedures and has partnered with military-grade security custody solutions such as Fireblocks and Copper to secure the assets.
+
+👉 https://stakehound.com
+
