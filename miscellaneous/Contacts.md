@@ -18,7 +18,7 @@ Please update your personal information, and include hyperlinks.
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Alessio |node.symbolitalia.com:3000 |symbolitalia.com/harvest-con-me | @alediemmee | alediemmee#4796 |
 | Alexis |http://node.xym.show |[www.xym.show](https://xym.show/) | @psputnik | psputnik#2769 | [@NEM_bol](https://twitter.com/NEM_bol)
-| Angel |http://202.61.199.238:3000 |https://symbolplatform.ru | @angelnem | angelnem#3452 |
+| Angel |http://xym007.host |https://symbolplatform.ru | @angelnem | angelnem#3452 |
 | Carlos J. |http://node.symbolblogespanol.com:3000|[SymbolBlogEspanol.com](https://symbolblogespanol.com/) | @Oldskull1982 | OldSkull1982#1973 |[@todo_nem](https://twitter.com/todo_nem)
 | CB |[xym.farm](http://xym.farm)|http://xym.farm| [@C2daB](https://t.me/c2dab) | C2daB#1651 | [@DjCellBlock](https://www.twitter.com/DjCellBlock) |
 | DraGonCHRIS |xym525.allnodes.me | https://symboltcnews.com/ | @dtbychris | Dtbychris#4883 |https://twitter.com/NEM_Taiwanese |
