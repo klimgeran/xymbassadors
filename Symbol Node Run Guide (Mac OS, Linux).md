@@ -393,7 +393,7 @@ Your node main account will be displayed in the Accounts section.
 Select you want to overwrite: R
 i (change file)
 
-We need to update the node:
+We need to update and run the node:
 ```
 symbol-bootstrap start -p mainnet -a dual -c custom.yml --upgrade -d
 ```
@@ -402,11 +402,6 @@ Checking the node:
 
 ```
 symbol-bootstrap healthCheck
-```
-And run the node:
-
-```
-symbol-bootstrap start -p mainnet -a dual -c custom.yml
 ```
 
 # Use the following commands to update the symbol-bootstrap node on Centos8:
