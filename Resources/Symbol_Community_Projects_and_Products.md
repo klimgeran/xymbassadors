@@ -9,29 +9,33 @@ Please list here all the fantastic products and projects the community has built
 
 ## QUEST
 
-(insert logo)!![](https://i.imgur.com/AwNMBvA.jpg)
+![](https://i.imgur.com/AwNMBvA.jpg)
 
-(insert description)
+
 OPENSPHERE Inc. , the software developer in Japan (CEO: Shinichi Hanayama) has been developed tipping platform "QUEST" targeted to streamers, which is based on Symbol blockchain. 
 
 https://quest-bc.com
 
-(insert images)
+
 ![](https://i.imgur.com/W4Cq8ML.png)
 
 
 ## Symbol Blog
 
-(insert logo) ![](https://i.imgur.com/uSQd6fb.jpg)
+![](https://i.imgur.com/uSQd6fb.jpg)
 
 
-(insert description)
+
 Symbol Blog was created to bring you the latest news about projects built on the Symbol blockchain from around the world.
 https://symbolblog.com/
-(insert images) ![](https://i.imgur.com/LY7dAK7.jpg)
+![](https://i.imgur.com/LY7dAK7.jpg)
  
 
+## nember.art
 
+NFT platform built on the Symbol blockchain 
+
+https://nember.art
 
 
 ## Symbolica
@@ -73,4 +77,39 @@ ___
 A liquid staking enabler – StakeHound brings the benefits of both DeFi and Staking together. With three major protocols already live: stETH, stXEM and stXYM, StakeHound is focused on building bridges between staking protocols and Ethereum’s DeFi. StakeHound is a swiss company that follows strict compliance procedures and has partnered with military-grade security custody solutions such as Fireblocks and Copper to secure the assets.
 
 👉 https://stakehound.com
+
+
+
+
+---
+## NFT-Drive
+
+![](https://i.imgur.com/cB8pNVr.jpg)
+
+NFT-Drive is a service that allows digital data to be archived on a blockchain and stored as data that can never be removed.
+
+
+
+👉 https://nft-drive.localinfo.jp
+
+---
+## XymHarvestMonitorbot
+
+![](https://i.imgur.com/RgzBbg1.png)
+
+
+XymHarvestMonitor is a Telegram bot that notifies you when Symbol harvesting has been collected.
+
+This bot currently supports Japanese and English and Russian.
+
+
+
+👉 https://t.me/XymHarvestMonitorbot
+
+Project owner 👉 [@Up_Income](https://twitter.com/Up_Income)
+
+
+
+
+
 
