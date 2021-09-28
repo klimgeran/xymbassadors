@@ -93,7 +93,7 @@ NFT-Drive is a service that allows digital data to be archived on a blockchain a
 👉 https://nft-drive.localinfo.jp
 
 ---
-## XymHarvestMonitorbot
+## XymHarvestMonitorbot (utility tool)
 
 ![](https://i.imgur.com/RgzBbg1.png)
 
