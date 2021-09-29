@@ -100,7 +100,7 @@ NFT-Drive is a service that allows digital data to be archived on a blockchain a
 
 XymHarvestMonitor is a Telegram bot that notifies you when Symbol harvesting has been collected.
 
-This bot currently supports Japanese and English and Russian.
+This bot currently supports Japanese and English and Russian, Italian.
 
 
 
