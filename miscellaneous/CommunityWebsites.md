@@ -2,7 +2,7 @@
 | --------------- | --------------- | --------------- |
 | Klim | https://nemnews.io/ | Russian  |
 | Klim | https://nemitalia.io/ | Italian |
-| Klim | https://symbolplatform.io | Russian |
+| Klim | https://symbolplatform.ru | Russian |
 | Simon | http://symbolblog.com/ | English |
 | Chipmunk | http://nemedia.jp | Japanese |
 | Samiur | http://symbolblogbd.com | Bangladeshi |
