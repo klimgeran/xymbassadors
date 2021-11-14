@@ -232,13 +232,9 @@ You should see the following in the terminal:
 
 ![7](https://i.imgur.com/cg5Jfcl.png)
 
-Before we will run node Symbol, we will create a custom configuration file custom.yml with VIM or NANO.
+Before we will run node Symbol, we will create a custom configuration file custom.yml with VIM.
 
 To do this, run the command:
-
-```
-vim custom.yml
-```
 
 ```
 nano custom.yml
@@ -317,25 +313,10 @@ vim plain-addresses.yml
 
 **Then enter the command to exit**
 
-
 ```
 :q
 ```
-
-If you have this error enter the command:
-Error: Destination file plain-addresses.yml already exists!
-
-# SKIP THIS COMMAND USE IF YOU HAVE AN ERROR WITH plain-addresses.yml
-```
-ls -a
-```
 **Enter another command (to remove custom.yml)**
-
-```
-rm plain-addresses.yml
-```
-
-Running a node:
 
 ```
 symbol-bootstrap start -p mainnet -a dual -c custom.yml -d
@@ -388,21 +369,24 @@ Your node main account will be displayed in the Accounts section.
 **Stop node to update settings** 
 
 (edit your custom.yml config file) 
-1. *symbol-bootstrap stop*
-2. *vim custom.yml* (Open file)
-Select you want to overwrite: R
-i (change file)
 
-We need to update and run the node:
-```
-symbol-bootstrap start -p mainnet -a dual -c custom.yml --upgrade -d
-```
+1) `symbol-bootstrap stop`
 
-Checking the node:
+2) `vim custom.yml`(Open file)
+Select you want to overwrite: 
+i (change file) - exit `:wq`
+
+We need to update the node:
+
+3) `symbol-bootstrap start -p mainnet -a dual -c custom.yml --upgrade -d`
+
+
+4) Checking the node:
 
 ```
 symbol-bootstrap healthCheck
 ```
+
 
 # Use the following commands to update the symbol-bootstrap node on Centos8:
 
@@ -422,6 +406,30 @@ symbol-bootstrap healthCheck
 
 
 _________
+
+# How to create HTTPS protocol for your node
+
+
+1) `symbol-bootstrap stop` - Stop your node with this command
+2) `vim custom.yml`(Open file)
+Select you want to overwrite:
+i (change file) - exit `:wq`
+
+Add the following command to get automatic https certificate:
+```
+3) httpsProxies:
+    - excludeDockerService: false
+```
+Bootstrap can also take care of obtaining the necessary SSL certificates through the public and free Let’s Encrypt service.
+
+
+![Uploading file..._ajsoadc6i]()
+
+4) `symbol-bootstrap start -p mainnet -a dual -c custom.yml --upgrade -d` - This command starts a node with updates settings. All done ✅
+
+> P.S: Remember to open ports 3001 and 80 in your firewall or security group. Port 3000 may or may not be closed. Port 80 is needed by Let’s Encrypt.
+> 
+
 
 
 
