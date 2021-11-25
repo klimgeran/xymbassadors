@@ -108,6 +108,37 @@ This bot currently supports Japanese and English and Russian, Italian.
 
 Project owner 👉 [@Up_Income](https://twitter.com/Up_Income)
 
+---
+## Symbol (XYM) Super🚀 Bot - Alerts and balance 
+
+![](https://i.imgur.com/vC9r1ds.png)
+
+
+Greetings! In this telegram bot you can:
+- checking rates (Symbol, NEM, Bitcoin, Ethereum)
+- check balance your Symbol/NEM wallet in BTC, fiat.
+- subscribe to notifications of receipt of coins and messages to your Symbol/NEM wallet
+
+Link to a video presentation of the bot's functions for personal use - https://twitter.com/symbol_super/status/1447221947008495621
+
+👉 https://t.me/symbol_super_bot
+
+Project owner 👉 [@symbol_super](https://twitter.com/symbol_super)
+
+---
+## symbol-tools.com - Symbol node list
+
+![](https://i.imgur.com/OEV98tf.png)
+
+
+Link to a video presentation of the bot's functions for personal use - This site provides a simple table of Symbol nodes and their importance. This site can be used as a reference to choose the right node for your harvesting. You can also see the owner of each node on the Twitter social network.
+
+👉 https://symbol-tools.com/symbolTools/view/tool/nodeList.html
+
+Project owner 👉 [@ahikicoin](https://twitter.com/ahikicoin)
+
+---
+
 
 
 
