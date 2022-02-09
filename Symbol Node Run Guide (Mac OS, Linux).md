@@ -1,17 +1,10 @@
 # Symbol Node Run Guide (Mac OS, Linux)
 
-[![hackmd-github-sync-badge](https://hackmd.io/Eq-MLx0EQ-OtO-ynDgEbxg/badge)](https://hackmd.io/Eq-MLx0EQ-OtO-ynDgEbxg)
-
-
 # ![](https://i.imgur.com/cy01Aci.jpg)
 
 Guide prepared by [@klimgeran](https://twitter.com/GeranKlim)
 
-Donate XYM: 
 
-##### NA4VOOQBORIWLTVHQOX43EZY2N3TUNLJ4SORKPA
-
- [NIS2.host](https://symbol-tools.com/symbolTools/view/tool/nodeDetails.html?inputHostName=nis2.host)
 _____
 Be sure to check out another guide that is more suitable for Windows users. Guide author[CB](http://xym.farm/):
 
@@ -449,63 +442,6 @@ Then run the following command
 docker ps -a
 ```
 ![](https://i.imgur.com/kETiwHB.png)
-
-# Node SSL certificate renewal
-
-If your node's SSL certificate is about to expire, you need to renew the SSL certificate. A node certificate expires approximately one year (375 days) after it was created. If this is not done, then your Symbol node will stop working.
-
-![](https://i.imgur.com/XF4pnFl.png)
-
-
-- Login to your node via CLI terminal: `ssh symbolnode@xxx.xx.xxx.xxx`
-
-Checking node status and SSL certificate: 
-
-`symbol-bootstrap -v`
-
-1) Stop your Symbol node:
-`symbol-bootstrap stop`
-
-2) Make a backup:
-`cp -r target targetbackup`
-
-
-> The Symbol node does not need to be stopped to renew the certificate, use the commands below to renew the certificate.
-
-
-🟡 30 days before the symbol node's SSL certificate expires, it will be possible to renew using a command.
-
-3)  `symbol-bootstrap renewCertificates` 
-
-🟢 If the SSL certificate is expiring in a few months but you still want to renew your node certificate use this command.
-
-4) `symbol-bootstrap renewCertificates --force`
-
-5) Run your node: `symbol-bootstrap start -p mainnet -a dual -c custom.yml -d`
-
-
-
-👏 Congratulations, your SSL certificate has been updated.
-
-![](https://i.imgur.com/pwsnLkX.png)
-
-
-P.S: Additional command from [cryptoBeliever](https://twitter.com/cryptoBeliever_) to check the expiration of the SSL certificate:
-
-`echo | openssl s_client -showcerts -servername http://nis2.host -connect http://nis2.host:7900 2>/dev/null | openssl x509 -inform pem -noout -text`
-
-Replace `nis2.host` with your node.
-
-https://twitter.com/GeranKlim/status/1496563089978048512
-
-
-- The node operator can check the SSL certificate expiration information on this site: [https://symbol-tools.com/symbolTools/view/tool/nodeList.html](https://symbol-tools.com/symbolTools/view/tool/nodeList.html)
-
-![](https://i.imgur.com/9R1MQ4q.jpg)
-
-
-
-
 
 
 
