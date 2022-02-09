@@ -428,7 +428,21 @@ Bootstrap can also take care of obtaining the necessary SSL certificates through
 4) `symbol-bootstrap start -p mainnet -a dual -c custom.yml --upgrade -d` - This command starts a node with updates settings. All done ✅
 
 > P.S: Remember to open ports 3001 and 80 in your firewall or security group. Port 3000 may or may not be closed. Port 80 is needed by Let’s Encrypt.
-> 
+
+
+# A useful command that allows you to understand what is happening with your node
+
+First you need to stop the node
+```
+symbol-bootstrap stop
+```
+
+Then run the following command
+
+```
+docker ps -a
+```
+![](https://i.imgur.com/kETiwHB.png)
 
 
 
