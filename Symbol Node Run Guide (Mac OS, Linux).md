@@ -446,6 +446,50 @@ docker ps -a
 ```
 ![](https://i.imgur.com/kETiwHB.png)
 
+# Node SSL certificate renewal
+
+If your node's SSL certificate is about to expire, you need to renew the SSL certificate. A node certificate expires approximately one year (375 days) after it was created. If this is not done, then your Symbol node will stop working.
+
+![](https://i.imgur.com/XF4pnFl.png)
+
+
+- Login to your node via CLI terminal: `ssh symbolnode@xxx.xx.xxx.xxx`
+
+Checking node status and SSL certificate: 
+
+`symbol-bootstrap -v`
+
+
+> The Symbol node does not need to be stopped to renew the certificate, use the commands below to renew the certificate.> 
+
+
+🟡 30 days before the symbol node's SSL certificate expires, it will be possible to renew using a command.
+
+-  `symbol-bootstrap stop` 
+
+🟢 If the SSL certificate is expiring in a few months but you still want to renew your node certificate use this command.
+
+- `symbol-bootstrap renewCertificates --force`
+
+👏 Congratulations, your SSL certificate has been updated.
+
+![](https://i.imgur.com/pwsnLkX.png)
+
+
+P.S: Additional command from [cryptoBeliever](https://twitter.com/cryptoBeliever_) to check the expiration of the SSL certificate:
+
+`echo | openssl s_client -showcerts -servername http://nis2.host -connect http://nis2.host:7900 2>/dev/null | openssl x509 -inform pem -noout -text`
+
+Replace `nis2.host` with your node.
+
+https://twitter.com/GeranKlim/status/1496563089978048512
+
+
+
+
+
+
+
 
 
 
