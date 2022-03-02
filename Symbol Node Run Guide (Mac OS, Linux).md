@@ -7,10 +7,6 @@
 
 Guide prepared by [@klimgeran](https://twitter.com/GeranKlim)
 
-Donate XYM: 
-
-##### NA4VOOQBORIWLTVHQOX43EZY2N3TUNLJ4SORKPA
-
 
 _____
 Be sure to check out another guide that is more suitable for Windows users. Guide author[CB](http://xym.farm/):
@@ -469,7 +465,7 @@ Checking node status and SSL certificate:
 
 🟡 30 days before the symbol node's SSL certificate expires, it will be possible to renew using a command.
 
--  `symbol-bootstrap renewCertificates` 
+-  `symbol-bootstrap stop` 
 
 🟢 If the SSL certificate is expiring in a few months but you still want to renew your node certificate use this command.
 
