@@ -7,10 +7,6 @@
 
 Guide prepared by [@klimgeran](https://twitter.com/GeranKlim)
 
-Donate XYM: 
-
-##### NA4VOOQBORIWLTVHQOX43EZY2N3TUNLJ4SORKPA
-
 
 _____
 Be sure to check out another guide that is more suitable for Windows users. Guide author[CB](http://xym.farm/):
@@ -463,27 +459,17 @@ Checking node status and SSL certificate:
 
 `symbol-bootstrap -v`
 
-1) Stop your Symbol node:
-`symbol-bootstrap stop`
 
-2) Make a backup:
-`cp -r target targetbackup`
-
-
-> The Symbol node does not need to be stopped to renew the certificate, use the commands below to renew the certificate.
+> The Symbol node does not need to be stopped to renew the certificate, use the commands below to renew the certificate.> 
 
 
 🟡 30 days before the symbol node's SSL certificate expires, it will be possible to renew using a command.
 
-3)  `symbol-bootstrap renewCertificates` 
+-  `symbol-bootstrap stop` 
 
 🟢 If the SSL certificate is expiring in a few months but you still want to renew your node certificate use this command.
 
-4) `symbol-bootstrap renewCertificates --force`
-
-5) Run your node: `symbol-bootstrap start -p mainnet -a dual -c custom.yml -d`
-
-
+- `symbol-bootstrap renewCertificates --force`
 
 👏 Congratulations, your SSL certificate has been updated.
 
