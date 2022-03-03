@@ -463,17 +463,27 @@ Checking node status and SSL certificate:
 
 `symbol-bootstrap -v`
 
+1) Stop your Symbol node:
+`symbol-bootstrap stop`
 
-> The Symbol node does not need to be stopped to renew the certificate, use the commands below to renew the certificate.> 
+2) Make a backup:
+`cp -r target targetbackup`
+
+
+> The Symbol node does not need to be stopped to renew the certificate, use the commands below to renew the certificate.
 
 
 🟡 30 days before the symbol node's SSL certificate expires, it will be possible to renew using a command.
 
--  `symbol-bootstrap renewCertificates` 
+3)  `symbol-bootstrap renewCertificates` 
 
 🟢 If the SSL certificate is expiring in a few months but you still want to renew your node certificate use this command.
 
-- `symbol-bootstrap renewCertificates --force`
+4) `symbol-bootstrap renewCertificates --force`
+
+5) Run your node: `symbol-bootstrap start -p mainnet -a dual -c custom.yml -d`
+
+
 
 👏 Congratulations, your SSL certificate has been updated.
 
