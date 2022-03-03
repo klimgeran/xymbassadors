@@ -499,7 +499,9 @@ Replace `nis2.host` with your node.
 https://twitter.com/GeranKlim/status/1496563089978048512
 
 
+ The node operator can check the SSL certificate expiration information on this site: [https://symbol-tools.com/symbolTools/view/tool/nodeList.html](https://symbol-tools.com/symbolTools/view/tool/nodeList.html)
 
+![](https://i.imgur.com/9R1MQ4q.jpg)
 
 
 
