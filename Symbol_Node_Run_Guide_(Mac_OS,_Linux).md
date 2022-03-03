@@ -11,6 +11,8 @@ Donate XYM:
 
 ##### NA4VOOQBORIWLTVHQOX43EZY2N3TUNLJ4SORKPA
 
+[NIS2.host](https://symbol-tools.com/symbolTools/view/tool/nodeDetails.html?inputHostName=nis2.host)
+
 
 _____
 Be sure to check out another guide that is more suitable for Windows users. Guide author[CB](http://xym.farm/):
