@@ -9,7 +9,9 @@ Guide prepared by [@klimgeran](https://twitter.com/GeranKlim)
 
 Donate XYM: 
 
-##### NA4VOOQBORIWLTVHQOX43EZY2N3TUNLJ4SORKPA
+- ##### NA4VOOQBORIWLTVHQOX43EZY2N3TUNLJ4SORKPA
+
+- [NIS2.host](https://symbol-tools.com/symbolTools/view/tool/nodeDetails.html?inputHostName=nis2.host)
 
 
 _____
@@ -484,7 +486,6 @@ Checking node status and SSL certificate:
 5) Run your node: `symbol-bootstrap start -p mainnet -a dual -c custom.yml -d`
 
 
-
 👏 Congratulations, your SSL certificate has been updated.
 
 ![](https://i.imgur.com/pwsnLkX.png)
@@ -497,6 +498,10 @@ P.S: Additional command from [cryptoBeliever](https://twitter.com/cryptoBeliever
 Replace `nis2.host` with your node.
 
 https://twitter.com/GeranKlim/status/1496563089978048512
+
+- The node operator can check the SSL certificate expiration information on this site: [https://symbol-tools.com/symbolTools/view/tool/nodeList.html](https://symbol-tools.com/symbolTools/view/tool/nodeList.html)
+![](https://i.imgur.com/e90xWSz.jpg)
+
 
 
 
